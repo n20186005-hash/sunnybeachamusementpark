@@ -1,0 +1,138 @@
+sunny-beach-amusement-park
+
+
+
+我们网站是
+sunnybeachamusementpark.com
+检查一遍看下是否有错误
+
+丰富下页面内容现在的内容还是太薄的了
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Sunny Beach Amusement Park 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+sunny-beach-amusement-park
+
+布尔加斯州	Sunny Beach Amusement Park
+Sunny Beach Amusement Park
+Лунапарк Слънчев бряг
+4.4(6,958)
+游乐场
+Flower Street Sunny Beach, 8240 Sunny Beach, 保加利亚
+https://maps.app.goo.gl/2vQQGdK5Vr23inr86
+
+
+国家 / 地区 *	保加利亚/Bulgaria
+地址行 1*	Flower Street
+地址行 2	Sunny Beach Amusement Park
+城市 *	Sunny Beach
+省 / 自治区 / 直辖市 *	布尔加斯州/Burgas Province
+邮政编码 *	8240
+
+
+
+买域名推荐
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\保加利亚\sunny-beach-amusement-park\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+保加利亚共和国旅游部
+https://www.tourism.government.bg/
+
+保加利亚文化部
+https://mc.government.bg/
+
+保加利亚文化遗产研究所/
+http://ninkn.bg/
+
+布尔加斯州政府
+http://bs.government.bg/
+
+
+
+
+移民事务局
+https://www.mvr.bg/migration
+
+保加利亚经济与工业部
+https://www.mi.government.bg/
+
+删除以上两个友情链接 新增以下友情链接
+
+保加利亚共和国外交部领事服务局
+https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/2vQQGdK5Vr23inr86
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/2vQQGdK5Vr23inr86
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/2vQQGdK5Vr23inr86
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/2vQQGdK5Vr23inr86
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/2vQQGdK5Vr23inr86
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+
+保加利亚语（Български）
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+买域名推荐
+
+
+
+
+我们网站是
+检查下有没有错误
+
+sunny-beach-amusement-park
+
+布尔加斯州	Sunny Beach Amusement Park
+Sunny Beach Amusement Park
+Лунапарк Слънчев бряг
+4.4(6,958)
+游乐场
+Flower Street Sunny Beach, 8240 Sunny Beach, 保加利亚
+https://maps.app.goo.gl/2vQQGdK5Vr23inr86
+
+保加利亚 布尔加斯州
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+
+
+
+
