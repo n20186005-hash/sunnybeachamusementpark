@@ -10,7 +10,7 @@ export default function Hero() {
       {/* Background image slideshow */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/sunny-beach-amusement-park (1).jpg"
+          src="/gallery/sunny-beach-amusement-park-1.jpg"
           alt="Sunny Beach Amusement Park"
           className="w-full h-full object-cover"
         />
