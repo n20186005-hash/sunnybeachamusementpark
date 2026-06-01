@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "title": "Sunny Beach Amusement Park – Burgas, Bulgaria",
+    "description": "Complete travel guide to Sunny Beach Amusement Park in Burgas Province. Learn about this amusement park, including location, attractions, and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Sunny Beach Amusement Park",
+    "subtitle": "Amusement Park · Sunny Beach, Bulgaria",
+    "rating": "4.4",
+    "reviewCount": "6,958 reviews",
+    "type": "Amusement Park",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
+  },
+  "intro": {
+    "title": "Discover Sunny Beach Amusement Park",
+    "description": "Sunny Beach Amusement Park (Лунапарк Слънчев бряг) is a popular amusement park located in Sunny Beach, Burgas Province, Bulgaria. It offers various rides and attractions for visitors of all ages.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Best time to visit is during the evening when the park is lit up.",
+        "Purchase tickets online to avoid queues.",
+        "Check the weather forecast before your visit.",
+        "Bring cash for food and games."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Exciting roller coasters",
+        "Family-friendly rides",
+        "Arcade games and prizes",
+        "Colorful night lighting"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Sunny Beach Amusement Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Development",
+        "content": "Sunny Beach Amusement Park has been a popular destination for tourists and locals alike. Over the years, it has expanded to include more rides and attractions."
+      },
+      {
+        "id": "attractions",
+        "title": "Attractions & Rides",
+        "content": "The park features various rides including roller coasters, carousels, and thrill rides. There are also arcade games and food stalls."
+      },
+      {
+        "id": "location",
+        "title": "Location & Access",
+        "content": "Located on Flower Street in Sunny Beach, the park is easily accessible by car or public transport. It's within walking distance from many hotels."
+      },
+      {
+        "id": "safety",
+        "title": "Safety & Regulations",
+        "content": "The park follows strict safety regulations. All rides are regularly inspected to ensure visitor safety."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What are the opening hours of Sunny Beach Amusement Park?",
+        "answer": "The park is typically open from 18:00 to 00:00 during peak season. Hours may vary depending on the season and weather conditions."
+      },
+      {
+        "question": "Is there an entrance fee?",
+        "answer": "There is no entrance fee. Visitors pay per ride or can purchase a day pass for unlimited rides."
+      },
+      {
+        "question": "Are there food options available?",
+        "answer": "Yes, there are several food stalls and snack bars offering a variety of options including local and international cuisine."
+      },
+      {
+        "question": "Is the park suitable for young children?",
+        "answer": "Yes, the park has many rides suitable for young children, as well as family-friendly attractions."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Sunny Beach Amusement Park (Лунапарк Слънчев бряг)",
+    "type": "Attraction Type",
+    "typeValue": "Amusement Park",
+    "country": "Country",
+    "countryValue": "Bulgaria",
+    "city": "City",
+    "cityValue": "Sunny Beach, Burgas Province",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.4 (6,958)",
+    "address": "Address",
+    "addressValue": "Flower Street Sunny Beach, 8240 Sunny Beach, Bulgaria",
+    "accessibility": "Accessibility",
+    "accessibilityValue": "Partial accessibility",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "QP7Q+4J7"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Park Hours",
+    "parkTime": "Typically 18:00-00:00 (peak season)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Mild weather, fewer crowds",
+    "bestTimeSummer": "Summer: Peak season, evening visits recommended",
+    "bestTimeAutumn": "Autumn: Pleasant temperatures",
+    "bestTimeWinter": "Winter: Limited operations",
+    "tip": "Evening visits offer the best experience with lights and cooler temperatures."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Ride Tickets",
+    "parkPrice": "Pay per ride or purchase day pass",
+    "parking": "Parking",
+    "parkingPrice": "Street parking available nearby",
+    "guided": "Group Discounts",
+    "guidedPrice": "Available for groups of 10+"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Burgas City Center",
+    "fromCenterDesc": "Distance about 35km north of Burgas. Car or bus recommended.",
+    "fromStation": "By Public Transport",
+    "fromStationDesc": "Take bus from Burgas to Sunny Beach.",
+    "fromAirport": "From Burgas Airport",
+    "fromAirportDesc": "Rent a car or take a taxi. About 30km from the airport.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Regular buses from Burgas to Sunny Beach.",
+    "walking": "Walking",
+    "walkingDesc": "Within Sunny Beach resort, walking distance from most hotels.",
+    "driving": "Driving",
+    "drivingDesc": "Follow the main road to Sunny Beach. Well signposted."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Fun Moments at Sunny Beach Amusement Park",
+    "captions": [
+      "Park entrance at night",
+      "Colorful rides and lights",
+      "Roller coaster in action",
+      "Family enjoying the park",
+      "Arcade games area",
+      "Food stalls and snacks",
+      "Carousel for children",
+      "Thrill ride in motion",
+      "Park lights at dusk",
+      "Visitors walking through",
+      "Ferris wheel view",
+      "Game prizes and toys",
+      "Evening atmosphere",
+      "Ride operators at work",
+      "Crowds enjoying the park",
+      "Sunset view from the park",
+      "Night lights and colors"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ivan P.",
+        "rating": 5,
+        "date": "2026-05-15",
+        "text": "Great amusement park! The rides are exciting and the atmosphere is fantastic at night."
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "date": "2026-04-22",
+        "text": "Fun place for the whole family. The kids loved the rides and games."
+      },
+      {
+        "name": "Georgi T.",
+        "rating": 5,
+        "date": "2026-03-10",
+        "text": "Awesome experience! The roller coaster is a must-try. Great value for money."
+      },
+      {
+        "name": "Elena D.",
+        "rating": 4,
+        "date": "2026-02-18",
+        "text": "Good variety of rides. The park is well-maintained and clean."
+      },
+      {
+        "name": "Nikolay R.",
+        "rating": 5,
+        "date": "2025-12-05",
+        "text": "Visited during summer vacation. The lights at night are spectacular!"
+      },
+      {
+        "name": "Anna M.",
+        "rating": 4,
+        "date": "2025-11-20",
+        "text": "Nice amusement park with friendly staff. Good location in Sunny Beach."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Flower Street Sunny Beach, 8240 Sunny Beach, Bulgaria",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Sunny Beach Amusement Park",
+    "brandSubtitle": "Amusement Park · Sunny Beach, Bulgaria",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "bgTourism": "Ministry of Tourism of Bulgaria",
+      "bgCulture": "Ministry of Culture of Bulgaria",
+      "bgHeritage": "National Institute of Immovable Cultural Heritage",
+      "bsGovernment": "Burgas Province Government",
+      "bgForeignMinistry": "Ministry of Foreign Affairs Consular Services"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "About Sunny Beach Amusement Park",
+    "text": "Sunny Beach Amusement Park is a private amusement park managed by local operators. The park follows all relevant safety and operational regulations."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and general information about Sunny Beach Amusement Park. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "title": "阳光海滩游乐园 (Sunny Beach Amusement Park) – 布尔加斯州, 保加利亚",
+    "description": "阳光海滩游乐园完整旅游指南。了解这个游乐园，包括位置、景点、交通和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "阳光海滩游乐园",
+    "subtitle": "游乐园 · 阳光海滩，保加利亚",
+    "rating": "4.4",
+    "reviewCount": "6,958 条评价",
+    "type": "游乐园",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
+  },
+  "intro": {
+    "title": "探索阳光海滩游乐园",
+    "description": "阳光海滩游乐园（Лунапарк Слънчев бряг）是位于保加利亚布尔加斯州阳光海滩的热门游乐园。它为所有年龄段的游客提供各种游乐设施和景点。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "最佳游览时间是傍晚，那时公园灯光璀璨。",
+        "在线购买门票以避免排队。",
+        "出发前查看天气预报。",
+        "携带现金用于购买食物和游戏。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "刺激的过山车",
+        "家庭友好型游乐设施",
+        "街机游戏和奖品",
+        "多彩的夜景灯光"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于阳光海滩游乐园",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与发展",
+        "content": "阳光海滩游乐园一直是游客和当地人的热门目的地。多年来，它已扩展到包括更多游乐设施和景点。"
+      },
+      {
+        "id": "attractions",
+        "title": "景点与游乐设施",
+        "content": "公园设有各种游乐设施，包括过山车、旋转木马和惊险游乐设施。还有街机游戏和食品摊位。"
+      },
+      {
+        "id": "location",
+        "title": "位置与交通",
+        "content": "位于阳光海滩的花街，公园可通过汽车或公共交通轻松抵达。从许多酒店步行即可到达。"
+      },
+      {
+        "id": "safety",
+        "title": "安全与规定",
+        "content": "公园遵循严格的安全规定。所有游乐设施都定期检查以确保游客安全。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "items": [
+      {
+        "question": "阳光海滩游乐园的开放时间是什么？",
+        "answer": "在旺季，公园通常从18:00开放到00:00。时间可能因季节和天气条件而异。"
+      },
+      {
+        "question": "需要门票吗？",
+        "answer": "不需要门票。游客按游乐设施付费，或可以购买一日通票以无限次乘坐。"
+      },
+      {
+        "question": "有食物选择吗？",
+        "answer": "是的，有几个食品摊位和小吃酒吧提供各种选择，包括当地和国际美食。"
+      },
+      {
+        "question": "公园适合幼儿吗？",
+        "answer": "是的，公园有许多适合幼儿的游乐设施，以及家庭友好的景点。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "阳光海滩游乐园 (Sunny Beach Amusement Park / Лунапарк Слънчев бряг)",
+    "type": "景点类型",
+    "typeValue": "游乐园",
+    "country": "国家",
+    "countryValue": "保加利亚 (Bulgaria)",
+    "city": "城市",
+    "cityValue": "阳光海滩，布尔加斯州",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.4 (6,958)",
+    "address": "地址",
+    "addressValue": "花街阳光海滩，8240 阳光海滩，保加利亚",
+    "accessibility": "无障碍设施",
+    "accessibilityValue": "部分区域可通行",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "QP7Q+4J7"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "公园时间",
+    "parkTime": "通常 18:00-00:00（旺季）",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：天气温和，人少",
+    "bestTimeSummer": "夏季：旺季，建议傍晚游览",
+    "bestTimeAutumn": "秋季：宜人的温度",
+    "bestTimeWinter": "冬季：运营有限",
+    "tip": "傍晚游览提供最佳体验，有灯光和凉爽的温度。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "游乐设施门票",
+    "parkPrice": "按游乐设施付费或购买一日通票",
+    "parking": "停车",
+    "parkingPrice": "附近有街道停车",
+    "guided": "团体折扣",
+    "guidedPrice": "10人以上团体可提供折扣"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从布尔加斯市中心",
+    "fromCenterDesc": "距离布尔加斯以北约35公里。建议开车或乘坐公交。",
+    "fromStation": "公共交通",
+    "fromStationDesc": "从布尔加斯乘坐公交到阳光海滩。",
+    "fromAirport": "从布尔加斯机场",
+    "fromAirportDesc": "租车或乘坐出租车。距机场约30公里。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "从布尔加斯到阳光海滩的定期公交。",
+    "walking": "步行",
+    "walkingDesc": "在阳光海滩度假村内，从大多数酒店步行即可到达。",
+    "driving": "自驾",
+    "drivingDesc": "沿主路前往阳光海滩。路标清晰。"
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "阳光海滩游乐园的欢乐时刻",
+    "captions": [
+      "夜晚的公园入口",
+      "多彩的游乐设施和灯光",
+      "过山车运行中",
+      "家庭享受公园",
+      "街机游戏区",
+      "食品摊位和小吃",
+      "儿童旋转木马",
+      "惊险游乐设施运行中",
+      "黄昏时的公园灯光",
+      "游客穿过公园",
+      "摩天轮景观",
+      "游戏奖品和玩具",
+      "傍晚氛围",
+      "游乐设施操作员工作中",
+      "人群享受公园",
+      "从公园看日落",
+      "夜灯和色彩"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "伊万 P.",
+        "rating": 5,
+        "date": "2026-05-15",
+        "text": "很棒的游乐园！游乐设施令人兴奋，夜晚的氛围非常棒。"
+      },
+      {
+        "name": "玛丽亚 S.",
+        "rating": 4,
+        "date": "2026-04-22",
+        "text": "全家的乐趣之地。孩子们喜欢游乐设施和游戏。"
+      },
+      {
+        "name": "格奥尔基 T.",
+        "rating": 5,
+        "date": "2026-03-10",
+        "text": "很棒的经历！过山车是必试的。物超所值。"
+      },
+      {
+        "name": "埃琳娜 D.",
+        "rating": 4,
+        "date": "2026-02-18",
+        "text": "游乐设施种类丰富。公园维护良好且干净。"
+      },
+      {
+        "name": "尼古拉 R.",
+        "rating": 5,
+        "date": "2025-12-05",
+        "text": "暑假期间参观。夜晚的灯光令人叹为观止！"
+      },
+      {
+        "name": "安娜 M.",
+        "rating": 4,
+        "date": "2025-11-20",
+        "text": "不错的游乐园，员工友好。在阳光海滩位置很好。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "花街阳光海滩，8240 阳光海滩，保加利亚",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "阳光海滩游乐园",
+    "brandSubtitle": "游乐园 · 阳光海滩，保加利亚",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "bgTourism": "保加利亚共和国旅游部",
+      "bgCulture": "保加利亚文化部",
+      "bgHeritage": "保加利亚文化遗产研究所",
+      "bsGovernment": "布尔加斯州政府",
+      "bgForeignMinistry": "保加利亚共和国外交部领事服务局"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于阳光海滩游乐园",
+    "text": "阳光海滩游乐园是一个私人游乐园，由当地运营商管理。公园遵循所有相关的安全和操作规定。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关阳光海滩游乐园的旅游、交通和一般信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}
