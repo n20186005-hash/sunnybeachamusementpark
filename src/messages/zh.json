@@ -129,17 +129,17 @@
   "transport": {
     "title": "交通指南",
     "fromCenter": "从布尔加斯市中心",
-    "fromCenterDesc": "距离布尔加斯以北约35公里。建议开车或乘坐公交。",
-    "fromStation": "公共交通",
-    "fromStationDesc": "从布尔加斯乘坐公交到阳光海滩。",
+    "fromCenterDesc": "距离布尔加斯市中心约35公里。您可以自驾沿 9 号公路（E87）向北行驶，车程约40分钟；或在布尔加斯南站（Bus Station South）乘坐前往阳光海滩的长途巴士。",
+    "fromStation": "从长途汽车站",
+    "fromStationDesc": "阳光海滩中央汽车站（Sunny Beach Bus Station）距离游乐园仅约800米。下车后沿花街（Flower Street）向海滩方向步行约10分钟即可到达。",
     "fromAirport": "从布尔加斯机场",
-    "fromAirportDesc": "租车或乘坐出租车。距机场约30公里。",
-    "publicTransport": "公共交通",
-    "publicTransportDesc": "从布尔加斯到阳光海滩的定期公交。",
+    "fromAirportDesc": "距离布尔加斯机场（BOJ）约26公里。最便捷的方式是乘坐出租车或预订机场接送服务（约30分钟）。您也可以在机场乘坐 10 路公交车直达阳光海滩。",
+    "publicTransport": "当地公交",
+    "publicTransportDesc": "在阳光海滩度假区内或从邻近的内塞伯尔（Nessebar）出发，可乘坐 1 路、2 路、5 路或 8 路公交车，在“中心（Center）”或“花街（Flower Street）”附近的站点下车。",
     "walking": "步行",
-    "walkingDesc": "在阳光海滩度假村内，从大多数酒店步行即可到达。",
-    "driving": "自驾",
-    "drivingDesc": "沿主路前往阳光海滩。路标清晰。"
+    "walkingDesc": "游乐园位于阳光海滩的中心地带（花街），这是度假区最繁华的步行街。如果您住在阳光海滩的酒店，沿着主干道或海滨长廊步行即可轻松抵达。",
+    "driving": "自驾与停车",
+    "drivingDesc": "导航至“Sunny Beach Amusement Park”。由于位于中心步行区，建议将车停在度假区周边的付费停车场（如中央汽车站附近的停车场），然后步行前往游乐园。"
   },
   "gallery": {
     "title": "照片画廊",

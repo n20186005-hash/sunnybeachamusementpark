@@ -129,17 +129,17 @@
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From Burgas City Center",
-    "fromCenterDesc": "Distance about 35km north of Burgas. Car or bus recommended.",
-    "fromStation": "By Public Transport",
-    "fromStationDesc": "Take bus from Burgas to Sunny Beach.",
+    "fromCenterDesc": "About 35 km from Burgas city center. You can drive north along Route 9 (E87) for about 40 minutes, or take a bus to Sunny Beach from Burgas Bus Station South.",
+    "fromStation": "From Bus Station",
+    "fromStationDesc": "Sunny Beach Central Bus Station is only about 800 meters from the amusement park. After getting off, walk towards the beach along Flower Street for about 10 minutes.",
     "fromAirport": "From Burgas Airport",
-    "fromAirportDesc": "Rent a car or take a taxi. About 30km from the airport.",
-    "publicTransport": "Public Transport",
-    "publicTransportDesc": "Regular buses from Burgas to Sunny Beach.",
+    "fromAirportDesc": "About 26 km from Burgas Airport (BOJ). The most convenient way is by taxi or pre-booked transfer (approx. 30 mins). You can also take Bus No. 10 directly from the airport to Sunny Beach.",
+    "publicTransport": "Local Public Transport",
+    "publicTransportDesc": "Within Sunny Beach or from nearby Nessebar, you can take buses 1, 2, 5, or 8 and get off at the 'Center' or 'Flower Street' stops.",
     "walking": "Walking",
-    "walkingDesc": "Within Sunny Beach resort, walking distance from most hotels.",
-    "driving": "Driving",
-    "drivingDesc": "Follow the main road to Sunny Beach. Well signposted."
+    "walkingDesc": "The park is located in the heart of Sunny Beach on Flower Street, the resort's main pedestrian area. If you are staying in Sunny Beach, it is an easy walk from most hotels.",
+    "driving": "Driving & Parking",
+    "drivingDesc": "Navigate to 'Sunny Beach Amusement Park'. Since it's in a central pedestrian zone, we recommend parking at one of the paid parking lots nearby (e.g., near the Central Bus Station) and walking to the park."
   },
   "gallery": {
     "title": "Photo Gallery",
