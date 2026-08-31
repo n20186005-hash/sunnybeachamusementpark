@@ -28,13 +28,13 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Sunny+Beach+Amusement+Park+Burgas+Bulgaria&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2932.507800783402!2d27.713382499999998!3d42.6929674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40a69fb2ce6fdf6d%3A0x108a42b185a818dc!2sSunny%20Beach%20Amusement%20Park!5e0!3m2!1szh-CN!2s!4v1788172231832!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Sunny Beach Amusement Park"
           />
         </div>
@@ -60,6 +60,20 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        {/* Authority outbound link */}
+        <p className="mt-8 text-center text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+          {t('officialPortal')}{' '}
+          <a
+            href="https://www.bulgariatravel.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline font-medium"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('officialPortalLabel')}
+          </a>
+        </p>
       </div>
     </section>
   );

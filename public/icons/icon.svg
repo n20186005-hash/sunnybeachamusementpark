@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#234d5c"/>
+  <circle cx="256" cy="256" r="128" fill="none" stroke="#e8dfd1" stroke-width="26"/>
+  <circle cx="256" cy="256" r="16" fill="#f0b429"/>
+  <line x1="256" y1="128" x2="256" y2="128" stroke="#e8dfd1" stroke-width="26"/>
+  <circle cx="128" cy="256" r="18" fill="#f0b429"/>
+  <circle cx="384" cy="256" r="18" fill="#f0b429"/>
+  <circle cx="205" cy="149" r="18" fill="#f0b429"/>
+  <circle cx="307" cy="149" r="18" fill="#f0b429"/>
+  <circle cx="128" cy="256" r="18" fill="#f0b429"/>
+  <line x1="256" y1="256" x2="384" y2="256" stroke="#e8dfd1" stroke-width="10" opacity="0.7"/>
+  <line x1="256" y1="256" x2="205" y2="149" stroke="#e8dfd1" stroke-width="10" opacity="0.7"/>
+  <line x1="256" y1="256" x2="307" y2="149" stroke="#e8dfd1" stroke-width="10" opacity="0.7"/>
+  <line x1="256" y1="256" x2="128" y2="256" stroke="#e8dfd1" stroke-width="10" opacity="0.7"/>
+  <path d="M180 400h152l-20-40H200z" fill="#f0b429"/>
+  <text x="256" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#e8dfd1">SUNNY BEACH</text>
+</svg>

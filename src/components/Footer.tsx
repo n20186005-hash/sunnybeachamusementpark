@@ -3,7 +3,7 @@ import { useTranslations, useLocale } from 'next-intl';
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = `/${locale}`;
 
   const officialLinks = t.raw('officialLinks') || {};
 
@@ -29,6 +29,9 @@ export default function Footer() {
             <div className="flex flex-col gap-2">
               <a href="https://www.tourism.government.bg/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {officialLinks.bgTourism || 'Ministry of Tourism of Bulgaria'}
+              </a>
+              <a href="https://www.bulgariatravel.org/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {officialLinks.bgTourismPortal || 'Bulgaria Official Tourism Portal'}
               </a>
               <a href="https://mc.government.bg/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {officialLinks.bgCulture || 'Ministry of Culture of Bulgaria'}
@@ -63,6 +66,9 @@ export default function Footer() {
         >
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('editorialNote')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('imageCopyright')}</p>
+          <p className="text-xs">{t('lastUpdated')}</p>
         </div>
       </div>
     </footer>

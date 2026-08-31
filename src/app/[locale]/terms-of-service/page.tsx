@@ -18,10 +18,10 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
-        'en': enUrl,
         'bg': bgUrl,
-        'x-default': enUrl,
+        'en': enUrl,
+        'zh': zhUrl,
+        'x-default': bgUrl,
       },
     },
   };

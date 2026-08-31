@@ -19,11 +19,38 @@ export default function Intro() {
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg leading-relaxed mb-6"
           style={{ color: 'var(--text-secondary)' }}
         >
           {t('description')}
         </p>
+
+        {/* Breadcrumb: entity → city → province → country */}
+        <p
+          className="text-sm font-medium mb-12 tracking-wide"
+          style={{ color: 'var(--accent)' }}
+        >
+          {t('breadcrumb')}
+        </p>
+
+        {/* Surrounding landmarks semantic cluster */}
+        <div
+          className="rounded-xl p-6 sm:p-8 mb-12"
+          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+        >
+          <h2
+            className="font-display text-2xl font-semibold mb-3"
+            style={{ color: 'var(--text-primary)' }}
+          >
+            {t('surroundingTitle')}
+          </h2>
+          <p
+            className="text-base leading-relaxed"
+            style={{ color: 'var(--text-secondary)' }}
+          >
+            {t('surroundingText')}
+          </p>
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div

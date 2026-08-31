@@ -1,27 +1,32 @@
 {
   "meta": {
-    "title": "Sunny Beach Amusement Park – Burgas, Bulgaria",
-    "description": "Complete travel guide to Sunny Beach Amusement Park in Burgas Province. Learn about this amusement park, including location, attractions, and visitor information."
+    "title": "Sunny Beach Amusement Park (Sunny Beach) – Visitor Guide & Location",
+    "description": "Discover Sunny Beach Amusement Park, the iconic amusement park in Sunny Beach, Burgas Province, Bulgaria. View location map, opening details, nearby Nessebar Old Town, and travel tips."
   },
   "header": {
     "home": "Home",
+    "history": "History",
+    "facilities": "Facilities",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Sunny Beach Amusement Park",
+    "title": "Sunny Beach Amusement Park (Sunny Beach)",
     "subtitle": "Amusement Park · Sunny Beach, Bulgaria",
     "rating": "4.4",
-    "reviewCount": "6,958 reviews",
+    "reviewCount": "7,278 reviews",
     "type": "Amusement Park",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
   },
   "intro": {
     "title": "Discover Sunny Beach Amusement Park",
-    "description": "Sunny Beach Amusement Park (Лунапарк Слънчев бряг) is a popular amusement park located in Sunny Beach, Burgas Province, Bulgaria. It offers various rides and attractions for visitors of all ages.",
+    "description": "Welcome to Sunny Beach Amusement Park (Лунапарк Слънчев бряг), widely recognized as the central amusement park of Sunny Beach. Located in the heart of Sunny Beach, Burgas Province, Bulgaria, this popular amusement park offers various rides and attractions for visitors of all ages.",
+    "breadcrumb": "Sunny Beach Amusement Park → Sunny Beach → Burgas Province → Bulgaria",
+    "surroundingTitle": "Landmarks & Attractions Around Sunny Beach Amusement Park",
+    "surroundingText": "When visiting Sunny Beach Amusement Park, visitors can easily explore surrounding historical landmarks and points of interest, including Nessebar Old Town (UNESCO World Heritage Site) and the Sunny Beach promenade.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -47,22 +52,135 @@
       {
         "id": "history",
         "title": "History & Development",
-        "content": "Sunny Beach Amusement Park has been a popular destination for tourists and locals alike. Over the years, it has expanded to include more rides and attractions."
+        "content": "The story of the park is tied to the history of Sunny Beach itself. The Bulgarian government selected this stretch of the Burgas coast for a major seaside resort in 1958, and the area grew quickly through the 1960s and 1970s. The amusement park developed in the central pedestrian zone as the resort's entertainment centre, gradually adding roller coasters, carousels and arcade games. After the 1990s transition, the resort was modernised and the park updated with new rides and lighting. Today it stands as one of the best-known symbols of Bulgarian seaside tourism."
       },
       {
         "id": "attractions",
         "title": "Attractions & Rides",
-        "content": "The park features various rides including roller coasters, carousels, and thrill rides. There are also arcade games and food stalls."
+        "content": "The park offers a broad mix of rides and games. Thrill seekers can enjoy roller coasters, spinning and drop rides, while younger visitors are well served by carousels, mini trains and gentle family rides. A large arcade area offers classic prize games, and food stalls line the edges of the park. The ferris wheel provides views over the promenade and the bay. Exact attractions vary from season to season and depend on operator availability."
       },
       {
         "id": "location",
         "title": "Location & Access",
-        "content": "Located on Flower Street in Sunny Beach, the park is easily accessible by car or public transport. It's within walking distance from many hotels."
+        "content": "The park occupies a central position on Flower Street (ул. „Цветна“), the main pedestrian avenue of Sunny Beach, only a short walk from the beach promenade. The central bus station is about 800 m away, and the Old Town of Nessebar lies about 4 km to the north-east, served by local bus lines 1, 2, 5 and 8."
       },
       {
         "id": "safety",
         "title": "Safety & Regulations",
-        "content": "The park follows strict safety regulations. All rides are regularly inspected to ensure visitor safety."
+        "content": "Rides are operated under Bulgarian safety regulations and are inspected regularly. Height restrictions apply to certain thrill rides, so families should check the requirements at each attraction. We recommend supervising young children at all times and keeping personal belongings secure in crowded areas."
+      },
+      {
+        "id": "family",
+        "title": "Family & Children",
+        "content": "The park is a family-friendly destination. Many gentle rides have no height restriction and suit toddlers, while larger rides set minimum height requirements. Strollers move easily along the pedestrian zone, and staff are generally available to assist at the main attractions."
+      },
+      {
+        "id": "night",
+        "title": "The Park After Dark",
+        "content": "The park is best known after sunset. Extensive lighting, illuminated rides and the evening sea breeze create a lively atmosphere that has made it a favourite evening destination for holidaymakers. Many visitors plan their evening around a visit before or after dinner."
+      },
+      {
+        "id": "etiquette",
+        "title": "Visitor Etiquette",
+        "content": "A little courtesy goes a long way in a busy public space. Queue at ride entrances, respect height limits and avoid reserving places on benches. Keep the area tidy by using the bins provided, and be considerate when taking photos of people."
+      }
+    ]
+  },
+  "history": {
+    "title": "History of Sunny Beach & the Amusement Park",
+    "overview": "The amusement park sits at the heart of Sunny Beach, one of the oldest and largest seaside resorts on Bulgaria's Black Sea coast. Its story is inseparable from the history of the resort itself.",
+    "timeline": [
+      {
+        "period": "Ancient & Medieval",
+        "title": "A coastline shaped by ancient civilisations",
+        "description": "Long before the resort existed, the coast around Sunny Beach was home to the ancient Thracians and Greek colonists. The nearby town of Nessebar (ancient Mesembria) dates back more than 3,000 years and was inscribed on the UNESCO World Heritage List in 1983."
+      },
+      {
+        "period": "1958",
+        "title": "Sunny Beach is planned",
+        "description": "In 1958 the Bulgarian government chose the coastal strip north of Burgas for a large new seaside resort. Named 'Sunny Beach' for the region's abundant sunshine, it became one of the flagship tourism projects of its era."
+      },
+      {
+        "period": "1960s–1980s",
+        "title": "A resort for everyone",
+        "description": "Hotels, promenades and leisure facilities rose rapidly along the coast. The amusement park developed in the central pedestrian zone as the resort's entertainment heart, with rides, arcades and food stalls serving a growing number of visitors."
+      },
+      {
+        "period": "1990s–2000s",
+        "title": "Renewal and modernisation",
+        "description": "After the transition of the 1990s, Sunny Beach was gradually modernised. Many hotels were renovated and new attractions added. The amusement park was refreshed with new rides and lighting, becoming the evening gathering point it is today."
+      },
+      {
+        "period": "Today",
+        "title": "A landmark of Bulgarian seaside tourism",
+        "description": "Sunny Beach is now one of the largest Black Sea resorts in Bulgaria, welcoming millions of visitors each summer. The amusement park remains its most recognisable entertainment landmark, especially after dark."
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Visitor Facilities Around the Park",
+    "subtitle": "A neutral overview of services near Sunny Beach Amusement Park. As an independent, non-profit informational site, we describe facility types only and do not recommend specific businesses.",
+    "items": [
+      {
+        "type": "toilets",
+        "title": "Public Toilets",
+        "description": "Public restrooms are available in the pedestrian zone and near the bus station. Some may charge a small fee."
+      },
+      {
+        "type": "parking",
+        "title": "Parking",
+        "description": "The park sits in a pedestrian area. Several paid parking lots operate nearby, including one close to the central bus station."
+      },
+      {
+        "type": "dining",
+        "title": "Dining & Snacks",
+        "description": "The park itself hosts food stalls and snack bars, while the surrounding streets are lined with restaurants, pizzerias, grills and fast-food outlets offering local and international cuisine."
+      },
+      {
+        "type": "lodging",
+        "title": "Accommodation",
+        "description": "Sunny Beach is one of Bulgaria's largest resorts, with a wide range of hotels, aparthotels and holiday villages within easy walking distance of the park."
+      },
+      {
+        "type": "shopping",
+        "title": "Shops & Convenience Stores",
+        "description": "The pedestrian zone contains supermarkets, minimarkets, souvenir shops and pharmacies, most staying open late during the summer season."
+      },
+      {
+        "type": "fuel",
+        "title": "Fuel & EV Charging",
+        "description": "Petrol stations are located on the main roads approaching Sunny Beach. Charging points for electric vehicles are available at some stations and hotel parking areas."
+      }
+    ]
+  },
+  "legends": {
+    "title": "Stories, Legends & Cultural Background",
+    "overview": "To understand Sunny Beach Amusement Park, it helps to know the stories of the coast around it — a shoreline layered with 3,000 years of history, myth and modern ambition.",
+    "kindBadges": {
+      "history": "History",
+      "legend": "Legend",
+      "culture": "Culture"
+    },
+    "items": [
+      {
+        "kind": "history",
+        "title": "Nessebar: a city that remembers",
+        "text": "A few kilometres from the park lies Nessebar, known in antiquity as Mesembria. Founded by Thracians and later colonised by Greeks from Megara, the city has been continuously inhabited for more than three millennia and was inscribed on the UNESCO World Heritage List in 1983."
+      },
+      {
+        "kind": "legend",
+        "title": "The 'Unfriendly Sea' that became hospitable",
+        "text": "Ancient Greek sailors once called the Black Sea 'Pontos Axeinos' — the Unfriendly Sea — because of its storms and unknown shores. As Greek colonisation spread along its coast, the name softened to 'Pontos Euxeinos', the Hospitable Sea, a name that still echoes in regional folklore."
+      },
+      {
+        "kind": "culture",
+        "title": "Where the name 'Sunny Beach' comes from",
+        "text": "Planned in 1958 by the Bulgarian government as a flagship seaside resort, the area was named 'Sunny Beach' for the Burgas coast's long sunny season — the region enjoys well over 2,000 hours of sunshine a year. The name soon became a brand for one of the largest resorts on the Black Sea."
+      },
+      {
+        "kind": "history",
+        "title": "A small peninsula, a 'museum city'",
+        "text": "Nessebar is often called 'the museum city': more than 40 medieval churches once stood on its small peninsula, and traces of ancient fortifications still line its shores. On a clear evening, the silhouettes of the old town can be seen across the bay from Sunny Beach."
       }
     ]
   },
@@ -84,6 +202,22 @@
       {
         "question": "Is the park suitable for young children?",
         "answer": "Yes, the park has many rides suitable for young children, as well as family-friendly attractions."
+      },
+      {
+        "question": "Is there parking near Sunny Beach Amusement Park?",
+        "answer": "The park is located in a central pedestrian zone. There are several paid parking lots nearby, for example near the Central Bus Station of Sunny Beach."
+      },
+      {
+        "question": "How far is the park from Nessebar?",
+        "answer": "Nessebar is only about 4 km from Sunny Beach. You can take a local bus (lines 1, 2, 5 or 8) or a taxi to reach the amusement park in about 10–15 minutes."
+      },
+      {
+        "question": "Are there public toilets near the park?",
+        "answer": "Yes. Public restrooms are available in the pedestrian zone and near the central bus station of Sunny Beach. Some may charge a small fee."
+      },
+      {
+        "question": "Is there somewhere to charge an electric car near Sunny Beach?",
+        "answer": "Charging points for electric vehicles can be found at some petrol stations and hotel car parks along the main approach roads to Sunny Beach. Petrol stations are plentiful on the main roads."
       }
     ]
   },
@@ -98,13 +232,15 @@
     "city": "City",
     "cityValue": "Sunny Beach, Burgas Province",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 (6,958)",
+    "googleRatingValue": "4.4 (7,278)",
+    "phone": "Phone",
+    "phoneValue": "+359 897 847 003",
     "address": "Address",
     "addressValue": "Flower Street Sunny Beach, 8240 Sunny Beach, Bulgaria",
     "accessibility": "Accessibility",
     "accessibilityValue": "Partial accessibility",
     "plusCode": "Plus Code",
-    "plusCodeValue": "QP7Q+4J7"
+    "plusCodeValue": "MPV7+59"
   },
   "hours": {
     "title": "Visiting Hours",
@@ -213,7 +349,9 @@
   "mapSection": {
     "title": "Map Location",
     "subtitle": "Flower Street Sunny Beach, 8240 Sunny Beach, Bulgaria",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "officialPortal": "For official updates and regional tourism information, visit",
+    "officialPortalLabel": "Bulgaria / Burgas Province Official Tourism Portal"
   },
   "footer": {
     "brandName": "Sunny Beach Amusement Park",
@@ -225,20 +363,36 @@
     "officialResourcesTitle": "Official Resources & Information",
     "officialLinks": {
       "bgTourism": "Ministry of Tourism of Bulgaria",
+      "bgTourismPortal": "Bulgaria Official Tourism Portal",
       "bgCulture": "Ministry of Culture of Bulgaria",
       "bgHeritage": "National Institute of Immovable Cultural Heritage",
       "bsGovernment": "Burgas Province Government",
       "bgForeignMinistry": "Ministry of Foreign Affairs Consular Services"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "editorialNote": "This page is compiled and reviewed by an independent editorial team and is for reference only.",
+    "imageCopyright": "All images displayed on this website are the property and copyright of their respective photographers.",
+    "lastUpdated": "Last updated: August 31, 2026"
   },
   "officialManagement": {
     "title": "About Sunny Beach Amusement Park",
     "text": "Sunny Beach Amusement Park is a private amusement park managed by local operators. The park follows all relevant safety and operational regulations."
   },
+  "sources": {
+    "title": "Sources & References",
+    "subtitle": "Official sources used to compile this guide",
+    "items": [
+      { "name": "Ministry of Tourism of Bulgaria", "url": "https://www.tourism.government.bg/" },
+      { "name": "Bulgaria Travel – Official Tourism Portal", "url": "https://www.bulgariatravel.org/" },
+      { "name": "Burgas Municipality", "url": "https://www.burgas.bg/" },
+      { "name": "Burgas Province Administration", "url": "http://bs.government.bg/" },
+      { "name": "UNESCO – Ancient City of Nessebar", "url": "https://whc.unesco.org/en/list/217/" },
+      { "name": "Google Maps Listing", "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86" }
+    ]
+  },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: August 31, 2026",
     "sections": [
       {
         "heading": "Information Collection",
@@ -256,7 +410,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: August 31, 2026",
     "sections": [
       {
         "heading": "Website Content and Use",
