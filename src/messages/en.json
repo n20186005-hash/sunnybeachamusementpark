@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Sunny Beach Amusement Park (Sunny Beach) — Visitor Guide",
-    "description": "Sunny Beach Amusement Park (Лунапарк Слънчев бряг) visitor guide: location, opening hours, tickets, transport, real-time weather, seasonal tips and family itineraries in Sunny Beach, Burgas Province, Bulgaria."
+    "title": "Sunny Beach Amusement Park (Luna Park), Sunny Beach — Visitor Guide: Tickets, Rides & Hours",
+    "description": "Visitor guide to Sunny Beach Amusement Park (Лунапарк Слънчев бряг / Luna Park) in Sunny Beach, Bulgaria: location, opening hours, ride tickets & prices, transport, real-time weather, seasonal tips and family itineraries."
   },
   "header": {
     "home": "Home",
@@ -9,12 +9,13 @@
     "facilities": "Facilities",
     "gallery": "Gallery",
     "reviews": "Reviews",
+    "faq": "FAQ",
     "map": "Map",
     "backToHome": "Back to Home"
   },
   "hero": {
     "title": "Sunny Beach Amusement Park (Sunny Beach)",
-    "subtitle": "Amusement Park · Sunny Beach, Bulgaria",
+    "subtitle": "Luna Park · Amusement Park · Sunny Beach, Bulgaria",
     "rating": "4.4",
     "reviewCount": "7,345 reviews",
     "type": "Amusement Park",
@@ -243,6 +244,18 @@
       {
         "question": "Is there somewhere to charge an electric car near Sunny Beach?",
         "answer": "Charging points for electric vehicles can be found at some petrol stations and hotel car parks along the main approach roads to Sunny Beach. Petrol stations are plentiful on the main roads."
+      },
+      {
+        "question": "How do I get to Sunny Beach Amusement Park?",
+        "answer": "The park sits on Flower Street (ул. „Цветна“), the central pedestrian promenade of Sunny Beach. From Burgas city centre it is about 35 km (bus or car via the E87). From Burgas Airport (BOJ) it is about 26 km — take a taxi, pre-booked transfer, or summer bus No. 10. The Central Bus Station of Sunny Beach is only about 800 m away, a 10-minute walk."
+      },
+      {
+        "question": "What rides and attractions are there?",
+        "answer": "The park offers a mix of thrill and family rides — roller coasters, spinning and drop towers, a ferris wheel with views over the bay, carousels, a mini train and a large arcade with prize games. Exact attractions change from season to season, so check on site."
+      },
+      {
+        "question": "Where can I buy tickets and how much do rides cost?",
+        "answer": "There is no separate entrance fee. You pay per ride or buy a day pass for unlimited rides at the park's ticket counters. Prices are set by the operator and may vary by season, so confirm at the booth during your visit."
       }
     ]
   },

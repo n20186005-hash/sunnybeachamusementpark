@@ -33,7 +33,7 @@ export default function Header() {
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
-          {(['history', 'facilities', 'gallery', 'reviews', 'map'] as const).map((section) => (
+          {(['history', 'faq', 'facilities', 'gallery', 'reviews', 'map'] as const).map((section) => (
             <a
               key={section}
               href={`/${locale}/#${section}`}

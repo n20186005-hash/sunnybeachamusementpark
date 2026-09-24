@@ -15,10 +15,15 @@ const LAST_UPDATED = '2026-08-31';
 
 const touristAttractionJsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'TouristAttraction',
+  '@type': ['TouristAttraction', 'AmusementPark'],
   '@id': 'https://sunnybeachamusementpark.com/#attraction',
   name: 'Sunny Beach Amusement Park',
-  alternateName: ['Лунапарк Слънчев бряг', 'Sunny Beach Amusement Park'],
+  alternateName: [
+    'Лунапарк Слънчев бряг',
+    'Luna Park Sunny Beach',
+    'Sunny Beach Luna Park',
+    'Luna Park',
+  ],
   description:
     'Comprehensive visitor guide to Sunny Beach Amusement Park in Sunny Beach, Burgas Province, Bulgaria.',
   url: BASE_URL,
