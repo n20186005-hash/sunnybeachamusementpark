@@ -36,6 +36,7 @@ export async function generateMetadata({
         'bg': `${baseUrl}/bg`,
         'en': `${baseUrl}/en`,
         'zh': `${baseUrl}/zh`,
+        'he': `${baseUrl}/he`,
         'x-default': `${baseUrl}/bg`,
       },
     },

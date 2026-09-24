@@ -12,6 +12,7 @@ export async function generateMetadata({
   const zhUrl = `${baseUrl}/zh/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
   const bgUrl = `${baseUrl}/bg/cookie-settings`;
+  const heUrl = `${baseUrl}/he/cookie-settings`;
   const selfUrl = `${baseUrl}/${locale}/cookie-settings`;
 
   return {
@@ -21,6 +22,7 @@ export async function generateMetadata({
         'bg': bgUrl,
         'en': enUrl,
         'zh': zhUrl,
+        'he': heUrl,
         'x-default': bgUrl,
       },
     },

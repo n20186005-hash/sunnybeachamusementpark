@@ -26,6 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             bg: `${baseUrl}/bg${page}`,
             en: `${baseUrl}/en${page}`,
             zh: `${baseUrl}/zh${page}`,
+            he: `${baseUrl}/he${page}`,
             'x-default': `${baseUrl}/bg${page}`,
           },
         },

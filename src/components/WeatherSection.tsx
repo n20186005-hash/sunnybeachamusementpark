@@ -72,7 +72,7 @@ function Stat({ label, value }: { label: string; value: string }) {
 
 export default async function WeatherSection({ locale }: { locale: string }) {
   const t = await getTranslations({ locale, namespace: 'weather' });
-  const lang = (['en', 'bg', 'zh'].includes(locale) ? locale : 'en') as WmoLang;
+  const lang = (['en', 'bg', 'zh', 'he'].includes(locale) ? locale : 'en') as WmoLang;
   const data = await getWeather(lang);
 
   return (
