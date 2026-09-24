@@ -68,6 +68,18 @@ export default function TransportSection() {
         </svg>
       ),
     },
+    {
+      key: 'taxi',
+      icon: (
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M3 17h2l1.5 3h11L19 17h2"/>
+          <path d="M5 17v-5l2-5h10l2 5v5"/>
+          <circle cx="8" cy="17" r="1.5"/>
+          <circle cx="16" cy="17" r="1.5"/>
+          <path d="M7 9h10"/>
+        </svg>
+      ),
+    },
   ];
 
   return (

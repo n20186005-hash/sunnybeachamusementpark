@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Sunny Beach Amusement Park (Sunny Beach) – Visitor Guide & Location",
-    "description": "Discover Sunny Beach Amusement Park, the iconic amusement park in Sunny Beach, Burgas Province, Bulgaria. View location map, opening details, nearby Nessebar Old Town, and travel tips."
+    "title": "Sunny Beach Amusement Park (Sunny Beach) — Visitor Guide",
+    "description": "Sunny Beach Amusement Park (Лунапарк Слънчев бряг) visitor guide: location, opening hours, tickets, transport, real-time weather, seasonal tips and family itineraries in Sunny Beach, Burgas Province, Bulgaria."
   },
   "header": {
     "home": "Home",
@@ -16,7 +16,7 @@
     "title": "Sunny Beach Amusement Park (Sunny Beach)",
     "subtitle": "Amusement Park · Sunny Beach, Bulgaria",
     "rating": "4.4",
-    "reviewCount": "7,278 reviews",
+    "reviewCount": "7,345 reviews",
     "type": "Amusement Park",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
@@ -150,6 +150,31 @@
         "type": "fuel",
         "title": "Fuel & EV Charging",
         "description": "Petrol stations are located on the main roads approaching Sunny Beach. Charging points for electric vehicles are available at some stations and hotel parking areas."
+      },
+      {
+        "type": "medical",
+        "title": "First Aid & Pharmacy",
+        "description": "A medical point and several pharmacies serve the central resort area; larger clinics and a hospital are found in Burgas. For anything serious, dial 112 (European emergency number)."
+      },
+      {
+        "type": "accessibility",
+        "title": "Accessibility",
+        "description": "The pedestrian promenade is step-free and largely flat, suitable for prams and wheelchairs. Individual rides have their own access rules, so ask staff at each attraction."
+      },
+      {
+        "type": "atm",
+        "title": "ATMs & Currency",
+        "description": "ATMs and currency-exchange offices are scattered along the main promenade. Cards are widely accepted, but it is handy to keep some cash for small stalls and games."
+      },
+      {
+        "type": "info",
+        "title": "Information & Help",
+        "description": "Resort information points and hotel reception desks can advise on transport, tickets and local services. Park staff can point you to the nearest facilities."
+      },
+      {
+        "type": "beach",
+        "title": "Beach Access",
+        "description": "The sandy beach is just a few minutes' walk from the park. Sunbeds, umbrellas and water-sports counters line the shore; the central beach is the busiest stretch."
       }
     ]
   },
@@ -232,7 +257,7 @@
     "city": "City",
     "cityValue": "Sunny Beach, Burgas Province",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 (7,278)",
+    "googleRatingValue": "4.4 (7,345)",
     "phone": "Phone",
     "phoneValue": "+359 897 847 003",
     "address": "Address",
@@ -265,17 +290,19 @@
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From Burgas City Center",
-    "fromCenterDesc": "About 35 km from Burgas city center. You can drive north along Route 9 (E87) for about 40 minutes, or take a bus to Sunny Beach from Burgas Bus Station South.",
-    "fromStation": "From Bus Station",
-    "fromStationDesc": "Sunny Beach Central Bus Station is only about 800 meters from the amusement park. After getting off, walk towards the beach along Flower Street for about 10 minutes.",
-    "fromAirport": "From Burgas Airport",
-    "fromAirportDesc": "About 26 km from Burgas Airport (BOJ). The most convenient way is by taxi or pre-booked transfer (approx. 30 mins). You can also take Bus No. 10 directly from the airport to Sunny Beach.",
+    "fromCenterDesc": "Sunny Beach is about 35 km north of Burgas. By car, follow Route 9 / E87 north for roughly 35–40 minutes. By bus, Burgas Bus Station South (Автогара Юг) runs frequent services to Sunny Beach; from the Sunny Beach stop it is a short walk to the park.",
+    "fromStation": "From the Bus Station",
+    "fromStationDesc": "Sunny Beach Central Bus Station is only about 800 m from the amusement park. After alighting, walk toward the beach along Flower Street (ул. „Цветна“) for about 10 minutes; the pedestrian zone leads straight to the rides.",
+    "fromAirport": "From Burgas Airport (BOJ)",
+    "fromAirportDesc": "Burgas Airport is about 26 km away. The easiest option is a taxi or a pre-booked transfer (approx. 30 minutes). In summer, public Bus No. 10 also connects the airport with Sunny Beach; check the current timetable at the terminal.",
+    "taxi": "Taxi & Rideshare",
+    "taxiDesc": "Taxis are widely available at Burgas Airport, Burgas train station and across Sunny Beach. Use a licensed cab (clearly marked, with a meter) and agree the fare or check the meter before boarding. A ride from the airport to the resort centre typically takes 25–35 minutes depending on season and traffic.",
     "publicTransport": "Local Public Transport",
-    "publicTransportDesc": "Within Sunny Beach or from nearby Nessebar, you can take buses 1, 2, 5, or 8 and get off at the 'Center' or 'Flower Street' stops.",
+    "publicTransportDesc": "Within Sunny Beach, or coming from nearby Nessebar, take local buses 1, 2, 5 or 8 and alight at the 'Center' (Център) or 'Flower Street' (Цветна) stops. Services are most frequent from May to September.",
     "walking": "Walking",
-    "walkingDesc": "The park is located in the heart of Sunny Beach on Flower Street, the resort's main pedestrian area. If you are staying in Sunny Beach, it is an easy walk from most hotels.",
+    "walkingDesc": "The park sits in the heart of Sunny Beach on Flower Street, the resort's main pedestrian promenade. If you are staying in Sunny Beach, it is an easy, flat walk from almost any hotel.",
     "driving": "Driving & Parking",
-    "drivingDesc": "Navigate to 'Sunny Beach Amusement Park'. Since it's in a central pedestrian zone, we recommend parking at one of the paid parking lots nearby (e.g., near the Central Bus Station) and walking to the park."
+    "drivingDesc": "Set your navigation to 'Sunny Beach Amusement Park'. Because the park is inside a pedestrian zone, we suggest parking at one of the paid lots nearby (for example by the Central Bus Station) and walking the last few minutes to the entrance."
   },
   "gallery": {
     "title": "Photo Gallery",
@@ -388,6 +415,165 @@
       { "name": "Burgas Province Administration", "url": "http://bs.government.bg/" },
       { "name": "UNESCO – Ancient City of Nessebar", "url": "https://whc.unesco.org/en/list/217/" },
       { "name": "Google Maps Listing", "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86" }
+    ]
+  },
+  "weather": {
+    "title": "Current Weather & Forecast",
+    "subtitle": "Live conditions and the next few days at Sunny Beach, updated automatically so you can plan your visit.",
+    "unavailable": "Live weather is temporarily unavailable. Please check a weather service before you travel.",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precip": "Rain",
+    "rainHint": "Looks like rain — an umbrella or raincoat will keep the evening comfortable.",
+    "forecast7": "Next 7 days",
+    "today": "Today",
+    "updated": "Conditions refresh automatically every few minutes."
+  },
+  "seasonal": {
+    "title": "Seasonal Visiting Strategy",
+    "overview": "Sunny Beach has a Black Sea coastal climate: hot, dry summers and mild, wetter winters. The patterns below are based on long-term regional climate normals (multi-decade averages), not a live forecast — always check the current weather before you set off. They help you choose the best season and what to pack.",
+    "cols": {
+      "weather": "Weather",
+      "sea": "Sea & Coast",
+      "park": "At the Park",
+      "tip": "What to Pack"
+    },
+    "seasons": [
+      {
+        "key": "spring",
+        "name": "Spring (Apr–Jun)",
+        "weather": "Mild days of 16–24°C with breezy, changeable skies and occasional showers.",
+        "sea": "The sea warms slowly and is still cool for swimming early on; the shore is quiet.",
+        "park": "The park opens for the season; evenings are fresh and the promenade is calm.",
+        "tip": "A light jacket for the evening and comfortable shoes for walking."
+      },
+      {
+        "key": "summer",
+        "name": "Summer (Jul–Aug)",
+        "weather": "Hot and dry, 28–33°C by day; the park's open hours fall in the cooler evening.",
+        "sea": "Warm, swimmable Black Sea (23–26°C) and busy, lively beaches.",
+        "park": "Peak season — most rides run, with the longest hours and biggest crowds after sunset.",
+        "tip": "Sunscreen, hat, water and a power bank; arrive early to beat queues."
+      },
+      {
+        "key": "autumn",
+        "name": "Autumn (Sep–Oct)",
+        "weather": "Warm, settled early autumn (22–27°C) cooling toward October, with fewer crowds.",
+        "sea": "The sea stays pleasantly warm into September — great for beach days.",
+        "park": "Still operating in early autumn with comfortable temperatures and shorter lines.",
+        "tip": "Light layers and a small umbrella for the occasional shower."
+      },
+      {
+        "key": "winter",
+        "name": "Winter (Nov–Mar)",
+        "weather": "Cool and wet, 5–11°C; the resort is largely closed and quiet.",
+        "sea": "Cold, grey sea, with stormier swells possible along the coast.",
+        "park": "Generally closed outside the summer season; confirm before travelling.",
+        "tip": "Only plan a visit if you have confirmed seasonal opening hours."
+      }
+    ],
+    "wildlifeTitle": "Coastline, Water & Wildlife",
+    "wildlife": "The Black Sea here is a sheltered, lower-salinity basin. In summer the coastal water quality is routinely monitored by Bulgarian authorities and the resort beaches are regularly awarded Blue Flag status. Bottlenose dolphins live in these waters and are sometimes seen offshore, and the dunes and lagoons near Sunny Beach host migratory birds. We describe these as part of the local natural context and recommend following any posted guidance on swimming and protected areas."
+  },
+  "itineraries": {
+    "title": "Suggested Itineraries",
+    "overview": "Flexible plans built around different travel styles. Timings assume the park's evening operating hours in peak season.",
+    "audienceTitle": "By Type of Visitor",
+    "audiences": [
+      {
+        "key": "family",
+        "name": "Families with Children",
+        "summary": "A relaxed pace mixing gentle rides with breaks and the nearby beach.",
+        "steps": [
+          "Arrive around opening and start with the carousel and mini-train.",
+          "Take a dinnertime break at the food stalls or a nearby restaurant.",
+          "Move to the ferris wheel and arcade games as it gets dark.",
+          "End with a short walk to the beach for the sunset."
+        ]
+      },
+      {
+        "key": "photo",
+        "name": "Photography & Scenery",
+        "summary": "Focus on the lit-up rides, the promenade and the sea at golden hour.",
+        "steps": [
+          "Shoot the empty promenade and ride silhouettes just before sunset.",
+          "Capture the illuminated rides after dark from the pedestrian avenue.",
+          "Walk to the beach for blue-hour reflections on the water.",
+          "Try long exposures of the ferris wheel for light trails."
+        ]
+      },
+      {
+        "key": "accessible",
+        "name": "Low-Effort & Accessible",
+        "summary": "Flat, step-free routes with plenty of seating and short distances.",
+        "steps": [
+          "Enter from the central promenade — the path is flat and paved.",
+          "Use the benches along Flower Street to rest between rides.",
+          "Choose ground-level attractions and the ferris wheel for views.",
+          "Keep the beach and bus station within an easy, level walk."
+        ]
+      }
+    ],
+    "generalTitle": "Classic Routes",
+    "general": [
+      {
+        "key": "half",
+        "name": "Half-Day Visit",
+        "summary": "An evening-focused plan if you have a few hours.",
+        "steps": [
+          "Reach the park about 30 minutes after opening.",
+          "Prioritise 3–4 headline rides and the ferris wheel.",
+          "Grab a snack, enjoy the lights, then head to the beach."
+        ]
+      },
+      {
+        "key": "full",
+        "name": "Full-Day Visit",
+        "summary": "Combine the beach, the old town and the park in one day.",
+        "steps": [
+          "Spend the morning on the sandy beach near the park.",
+          "Have lunch on the promenade and rest during the hot midday.",
+          "Explore Nessebar Old Town (a UNESCO site) in the late afternoon.",
+          "Finish at the amusement park after sunset for the full light show."
+        ]
+      }
+    ]
+  },
+  "responsibility": {
+    "title": "Science & Visitor Responsibility",
+    "overview": "A few notes on the local environment and how to enjoy the park and coast responsibly, as an independent non-profit guide.",
+    "items": [
+      {
+        "icon": "water",
+        "title": "Sea & Water Quality",
+        "text": "The resort's beaches are monitored in summer and frequently meet Blue Flag standards. Follow lifeguard flags and posted advice, and avoid swimming far from supervised areas."
+      },
+      {
+        "icon": "wildlife",
+        "title": "Local Wildlife",
+        "text": "Dolphins, seabirds and coastal plants share this stretch of coast. Observe from a distance, do not feed wildlife, and respect fenced or protected dune areas."
+      },
+      {
+        "icon": "safety",
+        "title": "Personal Safety",
+        "text": "Follow each ride's height and health guidance, keep an eye on children in crowds, and stay hydrated in summer heat. In an emergency dial 112."
+      },
+      {
+        "icon": "waste",
+        "title": "Leave No Trace",
+        "text": "Use the bins provided around the promenade and beach, carry reusable bottles, and help keep this public space clean for everyone."
+      },
+      {
+        "icon": "etiquette",
+        "title": "Courtesy & Etiquette",
+        "text": "Queue patiently at rides, be mindful when photographing people, and keep noise reasonable late at night for nearby residents."
+      },
+      {
+        "icon": "sun",
+        "title": "Sun & Heat",
+        "text": "Black Sea summers are strong. Use sunscreen, shade and water, especially for children and older visitors during peak afternoon hours."
+      }
     ]
   },
   "privacy": {

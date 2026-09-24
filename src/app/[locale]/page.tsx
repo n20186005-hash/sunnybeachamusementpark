@@ -16,6 +16,10 @@ import Reviews from '@/components/Reviews';
 import FAQSection from '@/components/FAQSection';
 import MapEmbed from '@/components/MapEmbed';
 import SourcesSection from '@/components/SourcesSection';
+import WeatherSection from '@/components/WeatherSection';
+import SeasonalStrategy from '@/components/SeasonalStrategy';
+import Itineraries from '@/components/Itineraries';
+import VisitorResponsibility from '@/components/VisitorResponsibility';
 import Footer from '@/components/Footer';
 
 export async function generateMetadata({
@@ -72,7 +76,11 @@ export default async function HomePage({
         <HoursSection />
         <TicketsSection />
         <TransportSection />
+        <WeatherSection locale={locale} />
+        <SeasonalStrategy />
+        <Itineraries />
         <FacilitiesSection />
+        <VisitorResponsibility />
         <HistorySection />
         <InfoSection />
         <LegendsSection />

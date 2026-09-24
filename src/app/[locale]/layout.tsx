@@ -168,6 +168,25 @@ export default async function LocaleLayout({
     dateModified: LAST_UPDATED,
   };
 
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Sunny Beach',
+        item: `${BASE_URL}/${locale}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Sunny Beach Amusement Park',
+        item: `${BASE_URL}/${locale}`,
+      },
+    ],
+  };
+
   return (
     <html lang={langAttr} suppressHydrationWarning>
       <head>
@@ -222,6 +241,11 @@ export default async function LocaleLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageJsonLd) }}
+        />
+        {/* Structured data: BreadcrumbList */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
         />
       </head>
       <body className="min-h-screen">

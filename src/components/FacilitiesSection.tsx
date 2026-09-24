@@ -41,6 +41,39 @@ const facilityIcons: Record<string, ReactNode> = {
       <path d="M3 21h10" />
     </svg>
   ),
+  medical: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="3" y="3" width="18" height="18" rx="3" />
+      <path d="M12 8v8M8 12h8" />
+    </svg>
+  ),
+  accessibility: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="4" r="1.6" />
+      <path d="M7 8h6l1 5 3 2M13 8v5M9 21l3-6" />
+      <circle cx="8" cy="20" r="1.5" />
+      <circle cx="17" cy="20" r="1.5" />
+    </svg>
+  ),
+  atm: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="3" y="5" width="18" height="14" rx="2" />
+      <path d="M7 10h2M7 14h6M14 10h3" />
+    </svg>
+  ),
+  info: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 11v5M12 8h.01" />
+    </svg>
+  ),
+  beach: (
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M3 20h18" />
+      <path d="M12 20V9" />
+      <path d="M12 9c-3 0-6 2-7 4 3-1 5-1 7 0 2-1 4-1 7 0-1-2-4-4-7-4z" />
+    </svg>
+  ),
 };
 
 export default function FacilitiesSection() {
