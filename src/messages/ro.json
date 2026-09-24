@@ -1,0 +1,647 @@
+{
+  "meta": {
+    "title": "Sunny Beach Amusement Park (Luna Park), Sunny Beach — Ghidul vizitatorului: Bilete, Atracții & Program",
+    "description": "Ghidul vizitatorului pentru Sunny Beach Amusement Park (Лунапарк Слънчев бряг / Luna Park) din Sunny Beach, Bulgaria: locație, program de vizitare, bilete și prețuri pentru atracții, transport, vreme în timp real, sfaturi pe anotimpuri și itinerarii de familie."
+  },
+  "header": {
+    "home": "Acasă",
+    "history": "Istorie",
+    "facilities": "Facilități",
+    "gallery": "Galerie",
+    "reviews": "Recenzii",
+    "faq": "Întrebări frecvente",
+    "map": "Hartă",
+    "backToHome": "Înapoi la pagina principală"
+  },
+  "hero": {
+    "title": "Sunny Beach Amusement Park (Sunny Beach)",
+    "subtitle": "Luna Park · Parc de distracții · Sunny Beach, Bulgaria",
+    "rating": "4.4",
+    "reviewCount": "7.345 de recenzii",
+    "type": "Parc de distracții",
+    "openMaps": "Vezi pe Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
+  },
+  "intro": {
+    "title": "Descoperă Sunny Beach Amusement Park",
+    "description": "Bine ați venit la Sunny Beach Amusement Park (Лунапарк Слънчев бряг), recunoscut pe scară largă ca parcul de distracții central din Sunny Beach. Situat în inima stațiunii Sunny Beach, regiunea Burgas, Bulgaria, acest parc de distracții popular oferă diverse atracții și jocuri pentru vizitatori de toate vârstele.",
+    "breadcrumb": "Sunny Beach Amusement Park → Sunny Beach → Regiunea Burgas → Bulgaria",
+    "surroundingTitle": "Obiective și atracții în jurul Sunny Beach Amusement Park",
+    "surroundingText": "Când vizitați Sunny Beach Amusement Park, turiștii pot explora cu ușurință monumente istorice și puncte de interes din împrejurimi, inclusiv Centrul Vechi Nessebar (sit UNESCO) și faleza din Sunny Beach.",
+    "visitGuide": {
+      "title": "Sfaturi pentru vizită",
+      "items": [
+        "Cel mai bun moment pentru vizită este seara, când parcul este iluminat.",
+        "Cumpărați biletele online pentru a evita cozile.",
+        "Verificați prognoza meteo înainte de vizită.",
+        "Aveți la dumneavoastră bani cash pentru mâncare și jocuri."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Momentele forte",
+      "items": [
+        "Montagne russe emoționante",
+        "Atracții potrivite pentru familii",
+        "Jocuri arcade și premii",
+        "Iluminare colorată pe timp de noapte"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Despre Sunny Beach Amusement Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Istoric și dezvoltare",
+        "content": "Povestea parcului este legată de istoria stațiunii Sunny Beach. Guvernul bulgar a ales acest sector al coastei Burgas pentru o mare stațiune la mare în 1958, iar zona s-a dezvoltat rapid în anii 1960 și 1970. Parcul de distracții s-a dezvoltat în zona pietonală centrală ca centrul de divertisment al stațiunii, adăugând treptat montagne russe, călușei și jocuri arcade. După tranziția din anii 1990, stațiunea a fost modernizată și parcul a fost actualizat cu noi atracții și iluminat. Astăzi reprezintă unul dintre cele mai cunoscute simboluri ale turismului balnear bulgar."
+      },
+      {
+        "id": "attractions",
+        "title": "Atracții și montagne russe",
+        "content": "Parc oferă o gamă variată de atracții și jocuri. Iubitorii de senzații tari se pot bucura de montagne russe, atracții rotative și cu cădere, în timp ce cei mici sunt bine serviți de călușei, trenulețe și atracții blânde pentru familie. O zonă mare de arcade oferă jocuri clasice cu premii, iar tarabele cu mâncare mărginesc parcul. Roata panoramică oferă priveliști spre faleză și golf. Atracțiile exacte variază de la un sezon la altul și depind de disponibilitatea operatorului."
+      },
+      {
+        "id": "location",
+        "title": "Locație și acces",
+        "content": "Parc ocupă o poziție centrală pe Strada Florilor (ул. „Цветна“), principala arteră pietonală din Sunny Beach, la doar o scurtă plimbare de faleză. Gara auto centrală se află la circa 800 m, iar Centrul Vechi Nessebar la circa 4 km nord-est, deservit de liniile de autobuz locale 1, 2, 5 și 8."
+      },
+      {
+        "id": "safety",
+        "title": "Siguranță și reglementări",
+        "content": "Atracțiile funcționează conform reglementărilor bulgare de siguranță și sunt inspectate regulat. Anumite atracții cu senzații tari au restricții de înălțime, așa că familiile trebuie să verifice cerințele la fiecare atracție. Recomandăm supravegherea permanentă a copiilor mici și păstrarea bunurilor personale în siguranță în zonele aglomerate."
+      },
+      {
+        "id": "family",
+        "title": "Familii și copii",
+        "content": "Parc este o destinație prietenoasă cu familia. Multe atracții blânde nu au restricție de înălțime și sunt potrivite pentru cei mici, în timp ce atracțiile mai mari impun o înălțime minimă. Cărucioarele se deplasează ușor pe zona pietonală, iar personalul este în general disponibil pentru asistență la atracțiile principale."
+      },
+      {
+        "id": "night",
+        "title": "Parcul după lăsarea întunericului",
+        "content": "Parc este cel mai cunoscut după apusul soarelui. Iluminatul extins, atracțiile luminate și briza serii creează o atmosferă vie care l-a transformat într-o destinație de seară favorită a turiștilor. Mulți vizitatori își planifică seara în jurul unei vizite înainte sau după cină."
+      },
+      {
+        "id": "etiquette",
+        "title": "Eticheta vizitatorului",
+        "content": "Puțină amabilitate contează mult într-un spațiu public aglomerat. Stați la coadă la intrarea atracțiilor, respectați limitele de înălțime și evitați rezervarea locurilor pe bănci. Mențineți zona curată folosind coșurile puse la dispoziție și fiți respectuoși când fotografiați persoane."
+      }
+    ]
+  },
+  "history": {
+    "title": "Istoria stațiunii Sunny Beach și a parcului de distracții",
+    "overview": "Parcul de distracții se află în inima stațiunii Sunny Beach, una dintre cele mai vechi și mai mari stațiuni balneare de pe coasta Mării Negre a Bulgariei. Povestea sa este de nedespărțit de istoria stațiunii înseși.",
+    "timeline": [
+      {
+        "period": "Ancient & Medieval",
+        "title": "O coastă modelată de civilizații antice",
+        "description": "Cu mult înainte de existența stațiunii, coasta din jurul Sunny Beach era locuită de tracii și de coloniști greci. Apropiatul oraș Nessebar (vechea Mesembria) datează de peste 3.000 de ani și a fost inclus în Lista Patrimoniului Mondial UNESCO în 1983."
+      },
+      {
+        "period": "1958",
+        "title": "Sunny Beach este planificat",
+        "description": "În 1958, guvernul bulgar a ales fâșia de coastă la nord de Burgas pentru o nouă stațiune mare la mare. Denumită „Sunny Beach” (Plaja însorită) datorită soarelui abundent din regiune, a devenit unul dintre proiectele emblematice de turism ale epocii."
+      },
+      {
+        "period": "1960s–1980s",
+        "title": "O stațiune pentru toată lumea",
+        "description": "Hoteluri, faleze și facilități de agrement au apărut rapid de-a lungul coastei. Parcul de distracții s-a dezvoltat în zona pietonală centrală ca inima divertismentului stațiunii, cu atracții, arcade și tarabe cu mâncare pentru un număr tot mai mare de vizitatori."
+      },
+      {
+        "period": "1990s–2000s",
+        "title": "Reînnoire și modernizare",
+        "description": "După tranziția anilor 1990, Sunny Beach a fost treptat modernizat. Multe hoteluri au fost renovate și au fost adăugate noi atracții. Parcul de distracții a fost înzestrat cu noi atracții și iluminat, devenind punctul de întâlnire de seară de astăzi."
+      },
+      {
+        "period": "Today",
+        "title": "Un simbol al turismului balnear bulgar",
+        "description": "Sunny Beach este acum una dintre cele mai mari stațiuni de la Marea Neagră din Bulgaria, primind milioane de vizitatori în fiecare vară. Parcul de distracții rămâne cel mai recognoscibil reper de divertisment al său, mai ales după lăsarea întunericului."
+      }
+    ]
+  },
+  "facilities": {
+    "title": "Facilități pentru vizitatori în jurul parcului",
+    "subtitle": "O prezentare neutră a serviciilor din apropierea Sunny Beach Amusement Park. Ca site independent, non-profit de informare, descriem doar tipurile de facilități și nu recomandăm afaceri specifice.",
+    "items": [
+      {
+        "type": "toilets",
+        "title": "Toalete publice",
+        "description": "Toalete publice sunt disponibile în zona pietonală și lângă gara auto. Unele pot percepe o mică taxă."
+      },
+      {
+        "type": "parking",
+        "title": "Parcare",
+        "description": "Parc se află într-o zonă pietonală. Mai multe parcări cu plată funcționează în apropiere, inclusiv una lângă gara auto centrală."
+      },
+      {
+        "type": "dining",
+        "title": "Restaurante și gustări",
+        "description": "Parcul găzduiește tarabe cu mâncare și snack-baruri, în timp ce străzile din jur sunt înșirate cu restaurante, pizzerii, grătare și fast-food-uri cu bucătărie locală și internațională."
+      },
+      {
+        "type": "lodging",
+        "title": "Cazare",
+        "description": "Sunny Beach este una dintre cele mai mari stațiuni din Bulgaria, cu o gamă largă de hoteluri, aparthoteluri și sate de vacanță la distanță de mers pe jos de parc."
+      },
+      {
+        "type": "shopping",
+        "title": "Magazine și minimarketuri",
+        "description": "Zona pietonală conține supermarketuri, minimarketuri, magazine de suveniruri și farmacii, majoritatea deschise până târziu în sezonul estival."
+      },
+      {
+        "type": "fuel",
+        "title": "Carburant și încărcare EV",
+        "description": "Benzinării se află pe drumurile principale de acces spre Sunny Beach. Puncte de încărcare pentru vehicule electrice sunt disponibile la unele benzinării și în parcările hotelurilor."
+      },
+      {
+        "type": "medical",
+        "title": "Prim ajutor și farmacie",
+        "description": "Un punct medical și mai multe farmacii deservesc zona centrală a stațiunii; clinici mai mare și un spital se găsesc la Burgas. Pentru orice urgență gravă, sunați 112 (numărul european de urgență)."
+      },
+      {
+        "type": "accessibility",
+        "title": "Accesibilitate",
+        "description": "Faleza pietonală este fără trepte și în mare parte plată, potrivită pentru cărucioare și scaune cu rotile. Atracțiile individuale au propriile reguli de acces, așa că întrebați personalul la fiecare atracție."
+      },
+      {
+        "type": "atm",
+        "title": "Bancomate și monedă",
+        "description": "Bancomate și birouri de schimb valutar sunt răspândite de-a lungul falezei principale. Cardurile sunt larg acceptate, dar este util să aveți puțin numerar pentru tarabele mici și jocuri."
+      },
+      {
+        "type": "info",
+        "title": "Informații și ajutor",
+        "description": "Punctele de informare ale stațiunii și recepțiile hotelurilor pot oferi sfaturi despre transport, bilete și servicii locale. Personalul parcului vă poate îndruma spre cele mai apropiate facilități."
+      },
+      {
+        "type": "beach",
+        "title": "Acces la plajă",
+        "description": "Plaja cu nisip se află la doar câteva minute de mers pe jos de parc. Șezlonguri, umbrele și ghișee pentru sporturi nautice bordurează țărmul; plaja centrală este cel mai aglomerat sector."
+      }
+    ]
+  },
+  "legends": {
+    "title": "Povești, legende și context cultural",
+    "overview": "Pentru a înțelege Sunny Beach Amusement Park, ajută să cunoașteți poveștile coastei din jur — un litoral stratificat cu 3.000 de ani de istorie, mit și ambiție modernă.",
+    "kindBadges": {
+      "history": "Istorie",
+      "legend": "Legendă",
+      "culture": "Cultură"
+    },
+    "items": [
+      {
+        "kind": "history",
+        "title": "Nessebar: un oraș care își amintește",
+        "text": "La câțiva kilometri de parc se află Nessebar, cunoscut în antichitate ca Mesembria. Fondat de traci și mai târziu colonizat de greci din Megara, orașul a fost locuit continuu timp de peste trei milenii și a fost inclus în Lista Patrimoniului Mondial UNESCO în 1983."
+      },
+      {
+        "kind": "legend",
+        "title": "„Marea ostilă” care a devenit primitoare",
+        "text": "Marinarii greci antici au numit odată Marea Neagră „Pontos Axeinos” — Marea Ostilă — din cauza furtunilor și a țărmurilor necunoscute. Pe măsură ce colonizarea greacă s-a răspândit de-a lungul coastei, numele s-a îmblânzit în „Pontos Euxeinos”, Marea Primitoare, un nume care răsună încă în folclorul regional."
+      },
+      {
+        "kind": "culture",
+        "title": "De unde vine numele „Sunny Beach”",
+        "text": "Planificată în 1958 de guvernul bulgar ca stațiune emblematică la mare, zona a fost numită „Sunny Beach” (Plaja însorită) datorită lungului sezon însorit de pe coasta Burgasului — regiunea se bucură de peste 2.000 de ore de soare pe an. Numele a devenit rapid o marcă pentru una dintre cele mai mari stațiuni de la Marea Neagră."
+      },
+      {
+        "kind": "history",
+        "title": "O mică peninsulă, un „oraș-muzeu”",
+        "text": "Nessebar este adesea numit „orașul-muzeu”: peste 40 de biserici medievale au stat odinioară pe micul său promontoriu, iar urmele fortificațiilor antice încă îi bordurează țărmurile. Într-o seară clară, siluetele vechiului oraș pot fi văzute peste golf din Sunny Beach."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Întrebări frecvente",
+    "items": [
+      {
+        "question": "Care este programul de vizitare al Sunny Beach Amusement Park?",
+        "answer": "Parcul este de obicei deschis între 18:00 și 00:00 în sezonul de vârf. Programul poate varia în funcție de anotimp și de condițiile meteo."
+      },
+      {
+        "question": "Există o taxă de intrare?",
+        "answer": "Nu există taxă de intrare. Vizitatorii plătesc per atracție sau pot achiziționa o cartelă de o zi pentru atracții nelimitate."
+      },
+      {
+        "question": "Există opțiuni de mâncare?",
+        "answer": "Da, există mai multe tarabe cu mâncare și snack-baruri care oferă o varietate de opțiuni, inclusiv bucătărie locală și internațională."
+      },
+      {
+        "question": "Parc este potrivit pentru copii mici?",
+        "answer": "Da, parcul are multe atracții potrivite pentru copii mici, precum și atracții prietenoase cu familia."
+      },
+      {
+        "question": "Există parcare lângă Sunny Beach Amusement Park?",
+        "answer": "Parc se află într-o zonă pietonală centrală. Există mai multe parcări cu plată în apropiere, de exemplu lângă Gara Auto Centrală Sunny Beach."
+      },
+      {
+        "question": "Cât de departe este parcul de Nessebar?",
+        "answer": "Nessebar se află la doar circa 4 km de Sunny Beach. Puteți lua un autobuz local (liniile 1, 2, 5 sau 8) sau un taxi pentru a ajunge la parcul de distracții în circa 10–15 minute."
+      },
+      {
+        "question": "Există toalete publice lângă parc?",
+        "answer": "Da. Toalete publice sunt disponibile în zona pietonală și lângă gara auto centrală din Sunny Beach. Unele pot percepe o mică taxă."
+      },
+      {
+        "question": "Există unde să încărc o mașină electrică lângă Sunny Beach?",
+        "answer": "Puncte de încărcare pentru vehicule electrice se găsesc la unele benzinării și în parcările hotelurilor de pe drumurile principale de acces spre Sunny Beach. Benziniile sunt numeroase pe drumurile principale."
+      },
+      {
+        "question": "Cum ajung la Sunny Beach Amusement Park?",
+        "answer": "Parc se află pe Strada Florilor (ул. „Цветна“), principala promenadă pietonală din Sunny Beach. Din centrul orașului Burgas sunt circa 35 km (autobuz sau mașină pe E87). De la Aeroportul Burgas (BOJ) sunt circa 26 km — luați un taxi, un transfer precomandat sau autobuzul de vară nr. 10. Gara Auto Centrală Sunny Beach se află la doar circa 800 m, o plimbare de 10 minute."
+      },
+      {
+        "question": "Ce atracții și montagne russe există?",
+        "answer": "Parc oferă un amestec de atracții cu senzații tari și pentru familie — montagne russe, turnuri rotative și cu cădere, o roată panoramică cu priveliști spre golf, călușei, un trenuleț și o mare zonă de arcade cu jocuri premiate. Atracțiile exacte se schimbă de la un sezon la altul, așa că verificați la fața locului."
+      },
+      {
+        "question": "Unde pot cumpăra bilete și cât costă atracțiile?",
+        "answer": "Nu există o taxă separată de intrare. Plătiți per atracție sau cumpărați o cartelă de o zi pentru atracții nelimitate de la casele de bilete ale parcului. Prețurile sunt stabilite de operator și pot varia în funcție de sezon, așa că confirmați la ghișeu în timpul vizitei."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informații de bază",
+    "officialName": "Denumire oficială",
+    "officialNameValue": "Sunny Beach Amusement Park (Лунапарк Слънчев бряг)",
+    "type": "Tip atracție",
+    "typeValue": "Parc de distracții",
+    "country": "Țară",
+    "countryValue": "Bulgaria",
+    "city": "Oraș",
+    "cityValue": "Sunny Beach, Regiunea Burgas",
+    "googleRating": "Evaluare Google",
+    "googleRatingValue": "4.4 (7.345)",
+    "phone": "Telefon",
+    "phoneValue": "+359 897 847 003",
+    "address": "Adresă",
+    "addressValue": "Strada Florilor, Sunny Beach, 8240 Sunny Beach, Bulgaria",
+    "accessibility": "Accesibilitate",
+    "accessibilityValue": "Accesibilitate parțială",
+    "plusCode": "Cod Plus",
+    "plusCodeValue": "MPV7+59"
+  },
+  "hours": {
+    "title": "Program de vizitare",
+    "park": "Programul parcului",
+    "parkTime": "De obicei 18:00–00:00 (sezon de vârf)",
+    "bestTime": "Cel mai bun moment pentru vizită",
+    "bestTimeSpring": "Primăvara: Vreme blândă, mai puține aglomerații",
+    "bestTimeSummer": "Vara: Sezon de vârf, recomandate vizitele de seară",
+    "bestTimeAutumn": "Toamna: Temperaturi plăcute",
+    "bestTimeWinter": "Iarna: Funcționare limitată",
+    "tip": "Vizitele de seară oferă cea mai bună experiență, cu lumini și temperaturi mai răcoroase."
+  },
+  "tickets": {
+    "title": "Informații despre acces",
+    "park": "Bilete pentru atracții",
+    "parkPrice": "Plată per atracție sau cartelă de o zi",
+    "parking": "Parcare",
+    "parkingPrice": "Parcare stradală disponibilă în apropiere",
+    "guided": "Reduceri de grup",
+    "guidedPrice": "Disponibile pentru grupuri de 10+"
+  },
+  "transport": {
+    "title": "Cum ajungeți aici",
+    "fromCenter": "Din centrul orașului Burgas",
+    "fromCenterDesc": "Sunny Beach se află la circa 35 km nord de Burgas. Cu mașina, urmați Ruta 9 / E87 spre nord timp de circa 35–40 de minute. Cu autobuzul, Autogara Sud Burgas (Автогара Юг) are curse frecvente spre Sunny Beach; de la stația Sunny Beach este o scurtă plimbare până la parc.",
+    "fromStation": "De la gara auto",
+    "fromStationDesc": "Gara Auto Centrală Sunny Beach se află la doar circa 800 m de parc. După coborâre, mergeți spre plajă pe Strada Florilor (ул. „Цветна“) timp de circa 10 minute; zona pietonală duce direct la atracții.",
+    "fromAirport": "De la Aeroportul Burgas (BOJ)",
+    "fromAirportDesc": "Aeroportul Burgas se află la circa 26 km. Cea mai ușoară opțiune este un taxi sau un transfer precomandat (aprox. 30 de minute). Vara, autobuzul public nr. 10 leagă de asemenea aeroportul de Sunny Beach; verificați orarul curent la terminal.",
+    "taxi": "Taxi și rideshare",
+    "taxiDesc": "Taxiurile sunt larg disponibile la Aeroportul Burgas, gara din Burgas și în tot Sunny Beach. Folosiți o cursă autorizată (clar marcată, cu aparat de taxat) și stabiliți prețul sau verificați aparatul înainte de îmbarcare. O cursă de la aeroport la centrul stațiunii durează de obicei 25–35 de minute, în funcție de sezon și trafic.",
+    "publicTransport": "Transport public local",
+    "publicTransportDesc": "În Sunny Beach sau venind din apropierea Nessebar, luați autobuzele locale 1, 2, 5 sau 8 și coborâți la stațiile „Centru” (Център) sau „Strada Florilor” (Цветна). Cursele sunt mai frecvente din mai până în septembrie.",
+    "walking": "Pe jos",
+    "walkingDesc": "Parc se află în inima Sunny Beach, pe Strada Florilor, principala promenadă pietonală a stațiunii. Dacă stați în Sunny Beach, este o plimbare ușoară și plată de la aproape orice hotel.",
+    "driving": "Cu mașina și parcarea",
+    "drivingDesc": "Setați navigația către „Sunny Beach Amusement Park”. Deoarece parcul este într-o zonă pietonală, sugerăm parcarea într-una din parcările cu plată din apropiere (de exemplu lângă Gara Auto Centrală) și parcurgerea ultimelor minute pe jos până la intrare."
+  },
+  "gallery": {
+    "title": "Galerie foto",
+    "subtitle": "Moment distractive la Sunny Beach Amusement Park",
+    "captions": [
+      "Intrarea în parc noaptea",
+      "Atracții colorate și lumini",
+      "Montagne russe în acțiune",
+      "Familie bucurându-se de parc",
+      "Zona de jocuri arcade",
+      "Tarabe cu mâncare și gustări",
+      "Călușeu pentru copii",
+      "Atracție cu senzații tari în mișcare",
+      "Luminile parcului în amurg",
+      "Vizitatori traversând parcul",
+      "Vedere de pe roata panoramică",
+      "Premii și jucării de la jocuri",
+      "Atmosfera de seară",
+      "Operatori de atracții la lucru",
+      "Mulțimi bucurându-se de parc",
+      "Vedere la apus din parc",
+      "Lumini și culori de noapte"
+    ],
+    "viewAll": "Vezi pe Google Maps",
+    "showAll": "Vezi toate fotografiile",
+    "showLess": "Arată mai puține"
+  },
+  "reviews": {
+    "title": "Recenzii ale vizitatorilor",
+    "declaration": "Recenziile pot fi vizualizate prin Google Maps.",
+    "moreReviews": "Vezi mai multe recenzii pe Google Maps",
+    "items": [
+      {
+        "name": "Ivan P.",
+        "rating": 5,
+        "date": "2026-05-15",
+        "text": "Minunat parc de distracții! Atracțiile sunt emoționante și atmosfera este fantastică noaptea."
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "date": "2026-04-22",
+        "text": "Loc distractiv pentru toată familia. Copiilor le-au plăcut atracțiile și jocurile."
+      },
+      {
+        "name": "Georgi T.",
+        "rating": 5,
+        "date": "2026-03-10",
+        "text": "Experiență grozavă! Montagne russe este de încercat. Raport calitate-preț excelent."
+      },
+      {
+        "name": "Elena D.",
+        "rating": 4,
+        "date": "2026-02-18",
+        "text": "Bună varietate de atracții. Parc este bine întreținut și curat."
+      },
+      {
+        "name": "Nikolay R.",
+        "rating": 5,
+        "date": "2025-12-05",
+        "text": "Vizitat în vacanța de vară. Luminile de noapte sunt spectaculoase!"
+      },
+      {
+        "name": "Anna M.",
+        "rating": 4,
+        "date": "2025-11-20",
+        "text": "Frumos parc de distracții cu personal prietenos. Locație bună în Sunny Beach."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Locația pe hartă",
+    "subtitle": "Strada Florilor, Sunny Beach, 8240 Sunny Beach, Bulgaria",
+    "openMaps": "Vezi pe Google Maps",
+    "officialPortal": "Pentru actualizări oficiale și informații turistice regionale, vizitați",
+    "officialPortalLabel": "Portalul oficial de turism Bulgaria / Regiunea Burgas"
+  },
+  "footer": {
+    "brandName": "Sunny Beach Amusement Park",
+    "brandSubtitle": "Parc de distracții · Sunny Beach, Bulgaria",
+    "rights": "© 2026 Proiect independent de cercetare turistică · Toate drepturile rezervate.",
+    "privacy": "Politica de confidențialitate",
+    "terms": "Termeni de utilizare",
+    "cookies": "Setări cookie",
+    "officialResourcesTitle": "Resurse și informații oficiale",
+    "officialLinks": {
+      "bgTourism": "Ministerul Turismului din Bulgaria",
+      "bgTourismPortal": "Portalul oficial de turism al Bulgariei",
+      "bgCulture": "Ministerul Culturii din Bulgaria",
+      "bgHeritage": "Institutul Național al Patrimoniului Cultural Imobil",
+      "bsGovernment": "Guvernul Regiunii Burgas",
+      "bgForeignMinistry": "Servicii consulare ale Ministerului Afacerilor Externe"
+    },
+    "disclaimer": "Acest site este un proiect independent de informare turistică, terță parte. Nu suntem afiliați cu guvernul local sau cu nicio altă agenție oficială.",
+    "editorialNote": "Această pagină este compilată și revizuită de o echipă editorială independentă și este doar pentru referință.",
+    "imageCopyright": "Toate imaginile afișate pe acest site sunt proprietatea și dreptul de autor al fotografilor respectivi.",
+    "lastUpdated": "Ultima actualizare: 31 august 2026"
+  },
+  "officialManagement": {
+    "title": "Despre Sunny Beach Amusement Park",
+    "text": "Sunny Beach Amusement Park este un parc de distracții privat, administrat de operatori locali. Parc respectă toate reglementările relevante de siguranță și funcționare."
+  },
+  "sources": {
+    "title": "Surse și referințe",
+    "subtitle": "Surse oficiale folosite pentru a compila acest ghid",
+    "items": [
+      { "name": "Ministry of Tourism of Bulgaria", "url": "https://www.tourism.government.bg/" },
+      { "name": "Bulgaria Travel – Official Tourism Portal", "url": "https://www.bulgariatravel.org/" },
+      { "name": "Burgas Municipality", "url": "https://www.burgas.bg/" },
+      { "name": "Burgas Province Administration", "url": "http://bs.government.bg/" },
+      { "name": "UNESCO – Ancient City of Nessebar", "url": "https://whc.unesco.org/en/list/217/" },
+      { "name": "Google Maps Listing", "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86" }
+    ]
+  },
+  "weather": {
+    "title": "Vremea actuală și prognoza",
+    "subtitle": "Condiții în direct și următoarele zile la Sunny Beach, actualizate automat pentru a vă planifica vizita.",
+    "unavailable": "Vremea în direct este temporar indisponibilă. Vă rugăm să verificați un serviciu meteo înainte de a pleca.",
+    "feelsLike": "Se simte ca",
+    "humidity": "Umiditate",
+    "wind": "Vânt",
+    "precip": "Ploaie",
+    "rainHint": "Se pare că plouă — o umbrelă sau un impermeabil vor face seara confortabilă.",
+    "forecast7": "Următoarele 7 zile",
+    "today": "Astăzi",
+    "updated": "Condițiile se reîmprospătează automat la câteva minute."
+  },
+  "seasonal": {
+    "title": "Strategie de vizitare pe anotimpuri",
+    "overview": "Sunny Beach are un climat de coastă al Mării Negre: veri calde și uscate, ierni blânde și mai umede. Tiparele de mai jos se bazează pe normali climatice regionale pe termen lung (medii pe decenii), nu pe o prognoză live — verificați întotdeauna vremea curentă înainte de plecare. Vă ajută să alegeți cel mai bun anotimp și ce să împachetați.",
+    "cols": {
+      "weather": "Vremea",
+      "sea": "Mare și coastă",
+      "park": "La parc",
+      "tip": "Ce să împachetați"
+    },
+    "seasons": [
+      {
+        "key": "spring",
+        "name": "Primăvara (apr–iun)",
+        "weather": "Zile blânde de 16–24°C cu ceruri vântoase, schimbătoare și ploi ocazionale.",
+        "sea": "Marea se încălzește încet și este încă răcoroasă pentru înot la început; țărmul este liniștit.",
+        "park": "Parcul se deschide pentru sezon; serile sunt proaspete și promenada este calmă.",
+        "tip": "O jachetă ușoară pentru seară și pantofi confortabili de mers."
+      },
+      {
+        "key": "summer",
+        "name": "Vara (iul–aug)",
+        "weather": "Călduroasă și uscată, 28–33°C ziua; programul de vizitare al parcului cade în seara mai răcoroasă.",
+        "sea": "Marea Neagră caldă, bună de înot (23–26°C) și plaje animată, pline de viață.",
+        "park": "Sezon de vârf — majoritatea atracțiilor funcționează, cu cel mai lung program și cele mai mari aglomerații după apus.",
+        "tip": "Cremă solară, pălărie, apă și o baterie externă; sosiți devreme pentru a evita cozile."
+      },
+      {
+        "key": "autumn",
+        "name": "Toamna (sep–oct)",
+        "weather": "Început de toamnă cald și stabil (22–27°C) răcindu-se spre octombrie, cu mai puține aglomerații.",
+        "sea": "Marea rămâne plăcut de caldă până în septembrie — ideală pentru zile la plajă.",
+        "park": "Încă funcționează la începutul toamnei, cu temperaturi confortabile și cozi mai scurte.",
+        "tip": "Straturi ușoare și o umbrelă mică pentru ploile ocazionale."
+      },
+      {
+        "key": "winter",
+        "name": "Iarna (nov–mar)",
+        "weather": "Răcoroasă și umedă, 5–11°C; stațiunea este în mare parte închisă și liniștită.",
+        "sea": "Mare rece, cenușie, cu valuri mai furtunoase posibile de-a lungul coastei.",
+        "park": "În general închis în afara sezonului estival; confirmați înainte de a călători.",
+        "tip": "Planificați o vizită doar dacă ați confirmat programul sezonier de deschidere."
+      }
+    ],
+    "wildlifeTitle": "Coastă, apă și faună",
+    "wildlife": "Marea Neagră de aici este un bazin adăpostit, cu salinitate mai mică. Vara, calitatea apei de coastă este monitorizată în mod curent de autoritățile bulgare, iar plajele stațiunii primesc frecvent statutul Steag Albastru. Delfinii cu botul albastru trăiesc în aceste ape și sunt uneori văzuți în larg, iar dunele și lagunele din apropierea Sunny Beach găzduiesc păsări migratoare. Le descriem ca parte a contextului natural local și recomandăm respectarea oricăror indicații afișate privind înotul și zonele protejate."
+  },
+  "itineraries": {
+    "title": "Itinerarii sugerate",
+    "overview": "Planuri flexibile construite în jurul diferitelor stiluri de călătorie. Temporizările presupun programul de seară al parcului în sezonul de vârf.",
+    "audienceTitle": "După tipul de vizitator",
+    "audiences": [
+      {
+        "key": "family",
+        "name": "Familii cu copii",
+        "summary": "Un ritm relaxat care combină atracții blânde cu pauze și plaja din apropiere.",
+        "steps": [
+          "Sosiți în jurul deschiderii și începeți cu călușeul și trenulețul.",
+          "Faceți o pauză de cină la tarabele cu mâncare sau un restaurant din apropiere.",
+          "Treceți la roata panoramică și jocurile arcade pe măsură ce se întunecă.",
+          "Terminați cu o scurtă plimbare la plajă pentru apus."
+        ]
+      },
+      {
+        "key": "photo",
+        "name": "Fotografie și peisaj",
+        "summary": "Concentrare pe atracțiile iluminate, promenadă și mare la ora de aur.",
+        "steps": [
+          "Fotografiați promenada goală și siluetele atracțiilor chiar înainte de apus.",
+          "Capturați atracțiile iluminate după lăsarea întunericului de pe artera pietonală.",
+          "Mergeți la plajă pentru reflexii la ora albastră pe apă.",
+          "Încercați expuneri lungi ale roții panoramice pentru dâre de lumină."
+        ]
+      },
+      {
+        "key": "accessible",
+        "name": "Efort redus și accesibil",
+        "summary": "Rute plate, fără trepte, cu multe locuri de stat și distanțe scurte.",
+        "steps": [
+          "Intrați din promenada centrală — cărarea este plată și pavată.",
+          "Folosiți băncile de pe Strada Florilor pentru a vă odihni între atracții.",
+          "Alegeți atracții la nivelul solului și roata panoramică pentru priveliști.",
+          "Păstrați plaja și gara auto la o plimbare ușoară, pe nivel."
+        ]
+      }
+    ],
+    "generalTitle": "Rute clasice",
+    "general": [
+      {
+        "key": "half",
+        "name": "Vizită de jumătate de zi",
+        "summary": "Un plan concentrat pe seară dacă aveți câteva ore.",
+        "steps": [
+          "Ajungeți la parc la circa 30 de minute după deschidere.",
+          "Prioritizați 3–4 atracții principale și roata panoramică.",
+          "Luați o gustare, bucurați-vă de lumini, apoi mergeți la plajă."
+        ]
+      },
+      {
+        "key": "full",
+        "name": "Vizită de o zi întreagă",
+        "summary": "Combinați plaja, orașul vechi și parcul într-o singură zi.",
+        "steps": [
+          "Petreceți dimineața pe plaja cu nisip de lângă parc.",
+          "Mâncați la prânz pe promenadă și odihniți-vă la amiază, când e cald.",
+          "Explorați Centrul Vechi Nessebar (sit UNESCO) la sfârșitul după-amiezii.",
+          "Terminați la parcul de distracții după apus pentru întregul spectacol de lumini."
+        ]
+      }
+    ]
+  },
+  "responsibility": {
+    "title": "Știință și responsabilitatea vizitatorului",
+    "overview": "Câteva note despre mediul local și cum să vă bucurați de parc și de coastă în mod responsabil, ca ghid independent non-profit.",
+    "items": [
+      {
+        "icon": "water",
+        "title": "Mare și calitatea apei",
+        "text": "Plajele stațiunii sunt monitorizate vara și îndeplinesc frecvent standardele Steag Albastru. Urmați steagurile salvamarilor și sfaturile afișate și evitați înotul departe de zonele supravegheate."
+      },
+      {
+        "icon": "wildlife",
+        "title": "Fauna locală",
+        "text": "Delfinii, păsările de mare și plantele de coastă împart acest sector de coastă. Observați de la distanță, nu hrăniți fauna sălbatică și respectați zonele de dune împrejmuite sau protejate."
+      },
+      {
+        "icon": "safety",
+        "title": "Siguranța personală",
+        "text": "Urmați îndrumările de înălțime și sănătate ale fiecărei atracții, aveți grijă de copii în aglomerații și rămâneți hidratați în căldura verii. În caz de urgență, sunați 112."
+      },
+      {
+        "icon": "waste",
+        "title": "Nu lăsați urme",
+        "text": "Folosiți coșurile puse la dispoziție în jurul promenadei și al plajei, purtați sticle reutilizabile și ajutați la păstrarea acestui spațiu public curat pentru toți."
+      },
+      {
+        "icon": "etiquette",
+        "title": "Amabilitate și etichetă",
+        "text": "Așteptați răbdători la cozi, fiți atenți când fotografiați persoane și păstrați zgomotul rezonabil târziu noaptea pentru rezidenții din apropiere."
+      },
+      {
+        "icon": "sun",
+        "title": "Soare și căldură",
+        "text": "Verile Mării Negre sunt puternice. Folosiți cremă solară, umbră și apă, în special pentru copii și vârstnici în timpul orelor de vârf ale după-amiezii."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Politica de confidențialitate",
+    "lastUpdated": "Ultima actualizare: 31 august 2026",
+    "sections": [
+      {
+        "heading": "Colectarea informațiilor",
+        "content": "Când vizitați site-ul nostru, putem colecta automat informații de bază despre dispozitivul, browserul și comportamentul de navigare pentru a oferi o experiență mai bună. Aceste informații nu conțin identitatea dumneavoastră personală."
+      },
+      {
+        "heading": "Utilizarea cookie-urilor",
+        "content": "Folosim cookie-uri pentru a analiza traficul site-ului și a optimiza conținutul paginilor. Vă puteți gestiona preferințele oricând prin opțiunea Setări cookie de la partea de jos a site-ului."
+      },
+      {
+        "heading": "Securitatea și protecția datelor",
+        "content": "Ne angajăm să protejăm securitatea datelor dumneavoastră de confidențialitate și nu vom vinde, închiria sau tranzacționa datele dumneavoastră de navigare către organizații comerciale terțe."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termeni de utilizare",
+    "lastUpdated": "Ultima actualizare: 31 august 2026",
+    "sections": [
+      {
+        "heading": "Conținutul și utilizarea site-ului",
+        "content": "Acest site oferă informații de călătorie, transport și generale despre Sunny Beach Amusement Park. Tot conținutul este doar pentru referință. Programul de vizitare și informațiile despre atracții pot suferi modificări în orice moment; vă rugăm să consultați anunțurile oficiale."
+      },
+      {
+        "heading": "Proprietate intelectuală",
+        "content": "Textele, imaginile și designurile de pe acest site sunt protejate prin drepturi de autor. Fără permisiune scrisă explicită, nimeni nu poate folosi conținutul site-ului în scopuri comerciale."
+      },
+      {
+        "heading": "Declinarea responsabilității",
+        "content": "Ne străduim să asigurăm acuratețea și actualitatea informațiilor, dar nu ne asumăm răspunderea legală pentru întârzieri de călătorie sau pierderi cauzate direct sau indirect de utilizarea informațiilor furnizate pe acest site."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Setări cookie",
+    "description": "Gestionați-vă preferințele pentru cookie-uri.",
+    "essential": {
+      "title": "Cookie-uri esențiale",
+      "description": "Necesare pentru funcționalitatea de bază a site-ului și nu pot fi dezactivate.",
+      "badge": "Întotdeauna active"
+    },
+    "analytics": {
+      "title": "Analiză",
+      "description": "Ne ajută să înțelegem comportamentul vizitatorilor și să îmbunătățim site-ul."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Folosite pentru urmărirea între site-uri și livrarea de reclame personalizate."
+    },
+    "save": "Salvați preferințele",
+    "saved": "Preferințe salvate!"
+  }
+}

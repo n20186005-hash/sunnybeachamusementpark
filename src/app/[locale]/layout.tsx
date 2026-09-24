@@ -24,6 +24,7 @@ const touristAttractionJsonLd = {
     'Sunny Beach Luna Park',
     'Luna Park',
     'לונה פארק סאני ביץ',
+    'Parcul de distracții Sunny Beach',
   ],
   description:
     'Comprehensive visitor guide to Sunny Beach Amusement Park in Sunny Beach, Burgas Province, Bulgaria.',
@@ -85,7 +86,7 @@ const webSiteJsonLd = {
   '@id': `${BASE_URL}/#website`,
   name: 'Sunny Beach Amusement Park Visitor Guide',
   url: BASE_URL,
-  inLanguage: ['bg', 'en', 'zh', 'he'],
+  inLanguage: ['bg', 'en', 'zh', 'he', 'ro'],
   publisher: { '@id': `${BASE_URL}/#organization` },
 };
 
@@ -101,6 +102,7 @@ export async function generateMetadata({
   const enUrl = `${BASE_URL}/en`;
   const zhUrl = `${BASE_URL}/zh`;
   const heUrl = `${BASE_URL}/he`;
+  const roUrl = `${BASE_URL}/ro`;
   const selfUrl = `${BASE_URL}/${locale}`;
 
   return {
@@ -114,6 +116,7 @@ export async function generateMetadata({
         'en': enUrl,
         'zh': zhUrl,
         'he': heUrl,
+        'ro': roUrl,
         'x-default': bgUrl,
       },
     },
@@ -122,7 +125,7 @@ export async function generateMetadata({
       description: messages.meta.description,
       url: selfUrl,
       siteName: 'Sunny Beach Amusement Park',
-      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : locale === 'he' ? 'he_IL' : 'bg_BG',
+      locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : locale === 'he' ? 'he_IL' : locale === 'ro' ? 'ro_RO' : 'bg_BG',
       type: 'website',
       images: [
         {
@@ -158,7 +161,7 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
   const messages = await getMessages();
 
-  const langAttr = locale === 'zh' ? 'zh-CN' : locale === 'bg' ? 'bg-BG' : locale === 'he' ? 'he' : 'en';
+  const langAttr = locale === 'zh' ? 'zh-CN' : locale === 'bg' ? 'bg-BG' : locale === 'he' ? 'he' : locale === 'ro' ? 'ro' : 'en';
   const meta = (messages as { meta: { title: string; description: string } }).meta;
 
   const webPageJsonLd = {

@@ -4,7 +4,7 @@
 // The UI never exposes provider details to visitors — they only care about
 // whether it will rain and what to bring.
 
-export type WmoLang = 'en' | 'bg' | 'zh' | 'he';
+export type WmoLang = 'en' | 'bg' | 'zh' | 'he' | 'ro';
 
 export interface CurrentWeather {
   tempC: number;
@@ -37,41 +37,41 @@ export interface WeatherData {
 }
 
 // WMO weather interpretation codes → short, visitor-friendly descriptions.
-const WMO: Record<number, { en: string; bg: string; zh: string; he: string }> = {
-  0: { en: 'Clear sky', bg: 'Ясно небе', zh: '晴朗', he: 'שמיים בהירים' },
-  1: { en: 'Mainly clear', bg: 'Предимно ясно', zh: '大致晴朗', he: 'בעיקר בהיר' },
-  2: { en: 'Partly cloudy', bg: 'Разкъсана облачност', zh: '局部多云', he: 'מעונן חלקית' },
-  3: { en: 'Overcast', bg: 'Облачно', zh: '阴天', he: 'מעונן' },
-  45: { en: 'Fog', bg: 'Мъгла', zh: '雾', he: 'ערפל' },
-  48: { en: 'Rime fog', bg: 'Мъгла с скреж', zh: '雾凇', he: 'ערפל כפור' },
-  51: { en: 'Light drizzle', bg: 'Слаба мъгла', zh: '小毛毛雨', he: 'טפטוף קל' },
-  53: { en: 'Drizzle', bg: 'Мъгла', zh: '毛毛雨', he: 'טפטוף' },
-  55: { en: 'Dense drizzle', bg: 'Гъста мъгла', zh: '浓毛毛雨', he: 'טפטוף כבד' },
-  56: { en: 'Freezing drizzle', bg: 'Замръзваща мъгла', zh: '冻毛毛雨', he: 'טפטוף קפוא' },
-  57: { en: 'Freezing drizzle', bg: 'Замръзваща мъгла', zh: '冻毛毛雨', he: 'טפטוף קפוא' },
-  61: { en: 'Light rain', bg: 'Слаб дъжд', zh: '小雨', he: 'גשם קל' },
-  63: { en: 'Rain', bg: 'Дъжд', zh: '中雨', he: 'גשם' },
-  65: { en: 'Heavy rain', bg: 'Силен дъжд', zh: '大雨', he: 'גשם חזק' },
-  66: { en: 'Freezing rain', bg: 'Замръзващ дъжд', zh: '冻雨', he: 'גשם קפוא' },
-  67: { en: 'Freezing rain', bg: 'Замръзващ дъжд', zh: '冻雨', he: 'גשם קפוא' },
-  71: { en: 'Light snow', bg: 'Слаб сняг', zh: '小雪', he: 'שלג קל' },
-  73: { en: 'Snow', bg: 'Сняг', zh: '中雪', he: 'שלג' },
-  75: { en: 'Heavy snow', bg: 'Силен сняг', zh: '大雪', he: 'שלג כבד' },
-  77: { en: 'Snow grains', bg: 'Снежни зърна', zh: '雪粒', he: 'גרגירי שלג' },
-  80: { en: 'Light rain showers', bg: 'Слаби превалявания', zh: '零星阵雨', he: 'ממטרים קלים' },
-  81: { en: 'Rain showers', bg: 'Превалявания', zh: '阵雨', he: 'ממטרים' },
-  82: { en: 'Violent rain showers', bg: 'Силни превалявания', zh: '强阵雨', he: 'ממטרים עזים' },
-  85: { en: 'Light snow showers', bg: 'Слаби снежни превалявания', zh: '零星阵雪', he: 'ממטרי שלג קלים' },
-  86: { en: 'Snow showers', bg: 'Снежни превалявания', zh: '阵雪', he: 'ממטרי שלג' },
-  95: { en: 'Thunderstorm', bg: 'Гръмотевична буря', zh: '雷阵雨', he: 'סופת רעמים' },
-  96: { en: 'Thunderstorm with hail', bg: 'Гръмотевична буря с градушка', zh: '雷阵雨伴冰雹', he: 'סופת רעמים עם ברד' },
-  99: { en: 'Thunderstorm with hail', bg: 'Гръмотевична буря с градушка', zh: '雷阵雨伴冰雹', he: 'סופת רעמים עם ברד' },
+const WMO: Record<number, { en: string; bg: string; zh: string; he: string; ro: string }> = {
+  0: { en: 'Clear sky', bg: 'Ясно небе', zh: '晴朗', he: 'שמיים בהירים', ro: 'Cer senin' },
+  1: { en: 'Mainly clear', bg: 'Предимно ясно', zh: '大致晴朗', he: 'בעיקר בהיר', ro: 'În principal senin' },
+  2: { en: 'Partly cloudy', bg: 'Разкъсана облачност', zh: '局部多云', he: 'מעונן חלקית', ro: 'Parțial noros' },
+  3: { en: 'Overcast', bg: 'Облачно', zh: '阴天', he: 'מעונן', ro: 'Înnorat' },
+  45: { en: 'Fog', bg: 'Мъгла', zh: '雾', he: 'ערפל', ro: 'Ceață' },
+  48: { en: 'Rime fog', bg: 'Мъгла с скреж', zh: '雾凇', he: 'ערפל כפור', ro: 'Ceață cu chiciură' },
+  51: { en: 'Light drizzle', bg: 'Слаба мъгла', zh: '小毛毛雨', he: 'טפטוף קל', ro: 'Burniță ușoară' },
+  53: { en: 'Drizzle', bg: 'Мъгла', zh: '毛毛雨', he: 'טפטוף', ro: 'Burniță' },
+  55: { en: 'Dense drizzle', bg: 'Гъста мъгла', zh: '浓毛毛雨', he: 'טפטוף כבד', ro: 'Burniță densă' },
+  56: { en: 'Freezing drizzle', bg: 'Замръзваща мъгла', zh: '冻毛毛雨', he: 'טפטוף קפוא', ro: 'Burniță congelantă' },
+  57: { en: 'Freezing drizzle', bg: 'Замръзваща мъгла', zh: '冻毛毛雨', he: 'טפטוף קפוא', ro: 'Burniță congelantă' },
+  61: { en: 'Light rain', bg: 'Слаб дъжд', zh: '小雨', he: 'גשם קל', ro: 'Ploaie ușoară' },
+  63: { en: 'Rain', bg: 'Дъжд', zh: '中雨', he: 'גשם', ro: 'Ploaie' },
+  65: { en: 'Heavy rain', bg: 'Силен дъжд', zh: '大雨', he: 'גשם חזק', ro: 'Ploaie torențială' },
+  66: { en: 'Freezing rain', bg: 'Замръзващ дъжд', zh: '冻雨', he: 'גשם קפוא', ro: 'Ploaie congelantă' },
+  67: { en: 'Freezing rain', bg: 'Замръзващ дъжд', zh: '冻雨', he: 'גשם קפוא', ro: 'Ploaie congelantă' },
+  71: { en: 'Light snow', bg: 'Слаб сняг', zh: '小雪', he: 'שלג קל', ro: 'Ninsoare ușoară' },
+  73: { en: 'Snow', bg: 'Сняг', zh: '中雪', he: 'שלג', ro: 'Ninsoare' },
+  75: { en: 'Heavy snow', bg: 'Силен сняг', zh: '大雪', he: 'שלג כבד', ro: 'Ninsoare abundentă' },
+  77: { en: 'Snow grains', bg: 'Снежни зърна', zh: '雪粒', he: 'גרגירי שלג', ro: 'Grăunțe de zăpadă' },
+  80: { en: 'Light rain showers', bg: 'Слаби превалявания', zh: '零星阵雨', he: 'ממטרים קלים', ro: 'Averse ușoare de ploaie' },
+  81: { en: 'Rain showers', bg: 'Превалявания', zh: '阵雨', he: 'ממטרים', ro: 'Averse de ploaie' },
+  82: { en: 'Violent rain showers', bg: 'Силни превалявания', zh: '强阵雨', he: 'ממטרים עזים', ro: 'Averse violente de ploaie' },
+  85: { en: 'Light snow showers', bg: 'Слаби снежни превалявания', zh: '零星阵雪', he: 'ממטרי שלג קלים', ro: 'Averse ușoare de ninsoare' },
+  86: { en: 'Snow showers', bg: 'Снежни превалявания', zh: '阵雪', he: 'ממטרי שלג', ro: 'Averse de ninsoare' },
+  95: { en: 'Thunderstorm', bg: 'Гръмотевична буря', zh: '雷阵雨', he: 'סופת רעמים', ro: 'Furtună cu descărcări electrice' },
+  96: { en: 'Thunderstorm with hail', bg: 'Гръмотевична буря с градушка', zh: '雷阵雨伴冰雹', he: 'סופת רעמים עם ברד', ro: 'Furtună cu descărcări electrice și grindină' },
+  99: { en: 'Thunderstorm with hail', bg: 'Гръмотевична буря с градушка', zh: '雷阵雨伴冰雹', he: 'סופת רעמים עם ברד', ro: 'Furtună cu descărcări electrice și grindină' },
 };
 
 const RAIN_CODES = new Set([51, 53, 55, 56, 57, 61, 63, 65, 66, 67, 80, 81, 82, 95, 96, 99]);
 
 export function wmoDescription(code: number, lang: WmoLang): string {
-  return WMO[code]?.[lang] ?? (lang === 'bg' ? 'Променливо' : lang === 'zh' ? '天气多变' : lang === 'he' ? 'משתנה' : 'Variable');
+  return WMO[code]?.[lang] ?? (lang === 'bg' ? 'Променливо' : lang === 'zh' ? '天气多变' : lang === 'he' ? 'משתנה' : lang === 'ro' ? 'Variabil' : 'Variable');
 }
 
 export function isRainCode(code: number): boolean {
@@ -79,20 +79,20 @@ export function isRainCode(code: number): boolean {
 }
 
 // Beaufort scale from wind speed in m/s, with a short localized label.
-export function beaufort(ms: number): { level: number; label: { en: string; bg: string; zh: string; he: string } } {
-  const table: Array<[number, { en: string; bg: string; zh: string; he: string }]> = [
-    [0.3, { en: 'Calm', bg: 'Безветрие', zh: '无风', he: 'דממת רוח' }],
-    [1.6, { en: 'Light air', bg: 'Слаб бриз', zh: '软风', he: 'רוח קלה מאוד' }],
-    [3.4, { en: 'Light breeze', bg: 'Лек бриз', zh: '轻风', he: 'רוח קלה' }],
-    [5.5, { en: 'Gentle breeze', bg: 'Умерен бриз', zh: '微风', he: 'רוח מתונה' }],
-    [8.0, { en: 'Moderate breeze', bg: 'Умерен вятър', zh: '和风', he: 'רוח בינונית' }],
-    [10.8, { en: 'Fresh breeze', bg: 'Свеж вятър', zh: '清劲风', he: 'רוח רעננה' }],
-    [13.9, { en: 'Strong breeze', bg: 'Силен вятър', zh: '强风', he: 'רוח חזקה' }],
-    [17.2, { en: 'Near gale', bg: 'Бурен вятър', zh: '疾风', he: 'רוח סערה קרובה' }],
-    [20.8, { en: 'Gale', bg: 'Буря', zh: '大风', he: 'סערה' }],
-    [24.5, { en: 'Strong gale', bg: 'Силна буря', zh: '狂风', he: 'סערה חזקה' }],
-    [28.5, { en: 'Storm', bg: 'Щорм', zh: '暴风', he: 'סערת סופה' }],
-    [32.7, { en: 'Violent storm', bg: 'Виолентен щорм', zh: '台风', he: 'סערה אלימה' }],
+export function beaufort(ms: number): { level: number; label: { en: string; bg: string; zh: string; he: string; ro: string } } {
+  const table: Array<[number, { en: string; bg: string; zh: string; he: string; ro: string }]> = [
+    [0.3, { en: 'Calm', bg: 'Безветрие', zh: '无风', he: 'דממת רוח', ro: 'Calmă' }],
+    [1.6, { en: 'Light air', bg: 'Слаб бриз', zh: '软风', he: 'רוח קלה מאוד', ro: 'Aer lin' }],
+    [3.4, { en: 'Light breeze', bg: 'Лек бриз', zh: '轻风', he: 'רוח קלה', ro: 'Briză ușoară' }],
+    [5.5, { en: 'Gentle breeze', bg: 'Умерен бриз', zh: '微风', he: 'רוח מתונה', ro: 'Briză blândă' }],
+    [8.0, { en: 'Moderate breeze', bg: 'Умерен вятър', zh: '和风', he: 'רוח בינונית', ro: 'Briză moderată' }],
+    [10.8, { en: 'Fresh breeze', bg: 'Свеж вятър', zh: '清劲风', he: 'רוח רעננה', ro: 'Briză proaspătă' }],
+    [13.9, { en: 'Strong breeze', bg: 'Силен вятър', zh: '强风', he: 'רוח חזקה', ro: 'Briză puternică' }],
+    [17.2, { en: 'Near gale', bg: 'Бурен вятър', zh: '疾风', he: 'רוח סערה קרובה', ro: 'Aproape furtună' }],
+    [20.8, { en: 'Gale', bg: 'Буря', zh: '大风', he: 'סערה', ro: 'Furtună' }],
+    [24.5, { en: 'Strong gale', bg: 'Силна буря', zh: '狂风', he: 'סערה חזקה', ro: 'Furtună puternică' }],
+    [28.5, { en: 'Storm', bg: 'Щорм', zh: '暴风', he: 'סערת סופה', ro: 'Furtună dezlânată' }],
+    [32.7, { en: 'Violent storm', bg: 'Виолентен щорм', zh: '台风', he: 'סערה אלימה', ro: 'Furtună violentă' }],
   ];
   let level = 0;
   let label = table[0][1];
@@ -110,6 +110,7 @@ const LOCALE_TAG: Record<WmoLang, string> = {
   bg: 'bg-BG',
   zh: 'zh-CN',
   he: 'he-IL',
+  ro: 'ro-RO',
 };
 
 function weekday(dateStr: string, lang: WmoLang): string {
@@ -248,5 +249,13 @@ const ADVICE: Record<WmoLang, {
     warmLayer: 'הערבים מתקררים ליד הים — קחו ז\'קט קל או סוודר.',
     windy: 'רוחות — החזיקו היטב כובעים וחפצים קלים.',
     pleasant: 'מזג אוויר נעים ושקט — ערב מצוין למתקנים המוארים.',
+  },
+  ro: {
+    umbrella: 'Probabilitate mare de ploaie — aduceți o umbrelă sau un impermeabil ușor.',
+    sunscreen: 'Soare puternic așteptat — pregătiți cremă solară, pălărie și ochelari de soare.',
+    hydrate: 'Se va simți cald — purtați apă și beți regulat.',
+    warmLayer: 'Serile se răcesc lângă mare — aduceți o jachetă ușoară sau un pulover.',
+    windy: 'Condiții vântoase — țineți bine pălăriile și obiectele ușoare.',
+    pleasant: 'Vreme calmă și plăcută — o seară excelentă pentru atracțiile iluminate.',
   },
 };

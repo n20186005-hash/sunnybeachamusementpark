@@ -13,6 +13,7 @@ export async function generateMetadata({
   const enUrl = `${baseUrl}/en/terms-of-service`;
   const bgUrl = `${baseUrl}/bg/terms-of-service`;
   const heUrl = `${baseUrl}/he/terms-of-service`;
+  const roUrl = `${baseUrl}/ro/terms-of-service`;
   const selfUrl = `${baseUrl}/${locale}/terms-of-service`;
 
   return {
@@ -23,6 +24,7 @@ export async function generateMetadata({
         'en': enUrl,
         'zh': zhUrl,
         'he': heUrl,
+        'ro': roUrl,
         'x-default': bgUrl,
       },
     },

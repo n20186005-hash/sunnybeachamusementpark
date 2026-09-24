@@ -9,6 +9,7 @@ const labels: Record<string, string> = {
   en: 'English',
   bg: 'Български',
   he: 'עברית',
+  ro: 'Română',
 };
 
 export default function LanguageToggle() {
