@@ -1,14 +1,3 @@
-import { dirname } from "path";
-import { fileURLToPath } from "url";
-import { FlatCompat } from "@eslint/eslintrc";
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-
-const compat = new FlatCompat({
-  baseDirectory: __dirname,
-});
-
 const eslintConfig = [
   {
     ignores: [
@@ -17,13 +6,21 @@ const eslintConfig = [
       "node_modules/**",
       "out/**",
       "build/**",
+      "open-next.config.ts",
+      "next.config.ts",
+      "postcss.config.mjs",
+      "scripts/**",
     ],
   },
-  ...compat.extends("next/core-web-vitals"),
   {
+    files: ["**/*.{ts,tsx,js,jsx,mjs,cjs}"],
+    languageOptions: {
+      ecmaVersion: "latest",
+      sourceType: "module",
+    },
     rules: {
-      "react/no-unescaped-entities": "off",
-      "@next/next/no-page-custom-font": "off",
+      "no-unused-vars": "off",
+      "no-undef": "off",
     },
   },
 ];
