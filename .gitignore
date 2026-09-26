@@ -14,13 +14,19 @@
 # wrangler / cloudflare
 /.wrangler/
 .dev.vars
+.dev.vars.*
 wrangler.toml
 
-# production
+# production / build output
 /build
+/dist
+/coverage
 
 # misc
 .DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 *.pem
 
 # debug
@@ -32,8 +38,20 @@ yarn-error.log*
 install.log
 
 # local env files
-.env*.local
 .env
+.env*.local
+.env*
+!.env.example
+
+# caches
+.npm
+.eslintcache
+.stylelintcache
+
+# temporary / scratch dirs
+.tmp*/
+tmp/
+*.tmp
 
 # typescript
 *.tsbuildinfo
@@ -42,4 +60,10 @@ next-env.d.ts
 # editor / OS
 .idea/
 .vscode/
+.history/
 *.swp
+*.swo
+
+# deployment platforms (if used)
+.vercel
+.netlify
