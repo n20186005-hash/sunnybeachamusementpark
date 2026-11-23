@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next';
+import { nearbyPlaces } from '@/content/nearby';
 import { routing } from '@/i18n/routing';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -10,7 +11,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '',
     '/privacy-policy',
     '/terms-of-service',
-    '/cookie-settings'
+    '/cookie-settings',
+    '/nearby',
+    '/sources',
+    ...nearbyPlaces.map(({ slug }) => `/nearby/${slug}`)
   ];
 
   for (const locale of routing.locales) {
@@ -18,7 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const page of pages) {
       entries.push({
         url: `${baseUrl}/${locale}${page}`,
-        lastModified: new Date('2026-08-31'),
+        lastModified: new Date((page === '' || page === '/sources' || page.startsWith('/nearby')) ? '2026-11-23' : '2026-08-31'),
         changeFrequency: page === '' ? 'weekly' : 'monthly',
         priority: page === '' ? (isDefault ? 1 : 0.8) : 0.5,
         alternates: {

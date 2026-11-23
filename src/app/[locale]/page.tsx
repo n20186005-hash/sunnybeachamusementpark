@@ -1,8 +1,9 @@
 import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
-import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
+import NearbyHome from '@/components/NearbyHome';
+import type { Locale } from '@/i18n/routing';
 import BasicInfo from '@/components/BasicInfo';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
@@ -15,7 +16,6 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import FAQSection from '@/components/FAQSection';
 import MapEmbed from '@/components/MapEmbed';
-import SourcesSection from '@/components/SourcesSection';
 import WeatherSection from '@/components/WeatherSection';
 import SeasonalStrategy from '@/components/SeasonalStrategy';
 import Itineraries from '@/components/Itineraries';
@@ -70,10 +70,10 @@ export default async function HomePage({
 
   return (
     <>
-      <Header />
       <main>
         <Hero />
         <Intro />
+        <NearbyHome locale={locale as Locale} />
         <BasicInfo />
         <HoursSection />
         <TicketsSection />
@@ -90,7 +90,6 @@ export default async function HomePage({
         <Reviews />
         <FAQSection />
         <MapEmbed />
-        <SourcesSection />
       </main>
       <Footer />
       <script

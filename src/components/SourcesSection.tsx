@@ -1,19 +1,18 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations } from 'next-intl';
 
 export default function SourcesSection() {
   const t = useTranslations('sources');
-  const messages = useMessages() as any;
-  const items = (messages?.sources?.items || []) as Array<{ name: string; url: string }>;
+  const items = t.raw('items') as Array<{ name: string; url: string }>;
 
   return (
-    <section id="sources" className="section-padding" style={{ background: 'var(--bg-primary)' }}>
-      <div className="max-w-4xl mx-auto">
-        <h2
+    <section id="sources">
+      <div>
+        <h1
           className="font-display text-3xl sm:text-4xl font-semibold mb-2"
           style={{ color: 'var(--text-primary)' }}
         >
           {t('title')}
-        </h2>
+        </h1>
         <p className="mb-8 text-sm" style={{ color: 'var(--text-muted)' }}>{t('subtitle')}</p>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 

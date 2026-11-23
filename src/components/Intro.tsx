@@ -1,7 +1,11 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
+
+import { nearbyLabels } from '@/content/nearby-labels';
+import type { Locale } from '@/i18n/routing';
 
 export default function Intro() {
   const t = useTranslations('intro');
+  const locale = useLocale() as Locale;
   const tOff = useTranslations('officialManagement');
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
@@ -50,6 +54,9 @@ export default function Intro() {
           >
             {t('surroundingText')}
           </p>
+          <a href={`/${locale}/nearby`} className="mt-4 inline-block font-semibold text-[var(--accent)] underline underline-offset-4">
+            {nearbyLabels(locale).all}
+          </a>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

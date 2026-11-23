@@ -35,7 +35,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Google Maps - Sunny Beach Amusement Park"
+            title={t('title')}
           />
         </div>
 

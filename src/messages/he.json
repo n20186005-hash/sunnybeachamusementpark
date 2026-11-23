@@ -4,6 +4,11 @@
     "description": "מדריך תיירות ללונה פארק סאני ביץ' (Sunny Beach Luna Park): מיקום, שעות פעילות, מחירי כרטיסים ומתקנים, תחבורה, מזג אוויר עדכני, טיפים לפי עונה ומסלולים למשפחות בסאני ביץ', מחוז בורגס, בולגריה."
   },
   "header": {
+    "sources": "מקורות",
+    "brand": "לונה פארק סאני ביץ׳",
+    "navigation": "ניווט ראשי",
+    "language": "בחירת שפה",
+    "theme": "החלפת ערכת נושא",
     "home": "דף הבית",
     "history": "היסטוריה",
     "facilities": "מתקנים",
@@ -17,7 +22,7 @@
     "title": "לונה פארק סאני ביץ' (Sunny Beach)",
     "subtitle": "לונה פארק · פארק שעשועים · סאני ביץ', בולגריה",
     "rating": "4.4",
-    "reviewCount": "7,345 ביקורות",
+    "reviewCount": "7,362 ביקורות",
     "type": "פארק שעשועים",
     "openMaps": "צפייה ב-Google Maps",
     "mapsLink": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
@@ -211,6 +216,8 @@
     ]
   },
   "faq": {
+    "questionLabel": "שאלה",
+    "answerLabel": "תשובה",
     "title": "שאלות נפוצות",
     "items": [
       {
@@ -270,7 +277,7 @@
     "city": "עיר",
     "cityValue": "סאני ביץ', מחוז בורגס",
     "googleRating": "דירוג גוגל",
-    "googleRatingValue": "4.4 (7,345)",
+    "googleRatingValue": "4.4 (7,362)",
     "phone": "טלפון",
     "phoneValue": "+359 897 847 003",
     "address": "כתובת",
@@ -318,6 +325,9 @@
     "drivingDesc": "הגדירו ניווט ל-'Sunny Beach Amusement Park'. מכיוון שהפארק באזור מדרחוב, אנו ממליצים לחנות באחד החניונים בתשלום בקרבת מקום (למשל ליד התחנה המרכזית) וללכת ברגל את הדקות האחרונות עד הכניסה."
   },
   "gallery": {
+    "previous": "התמונה הקודמת",
+    "next": "התמונה הבאה",
+    "close": "סגירת הגלריה",
     "title": "גלריית תמונות",
     "subtitle": "רגעים כיפיים בלונה פארק סאני ביץ'",
     "captions": [
@@ -394,25 +404,8 @@
     "officialPortalLabel": "הפורטל התיירותי הרשמי של בולגריה / מחוז בורגס"
   },
   "footer": {
-    "brandName": "לונה פארק סאני ביץ'",
-    "brandSubtitle": "פארק שעשועים · סאני ביץ', בולגריה",
-    "rights": "© 2026 פרויקט מחקר תיירותי בלתי תלוי · כל הזכויות שמורות.",
-    "privacy": "מדיניות פרטיות",
-    "terms": "תנאי שימוש",
-    "cookies": "הגדרות עוגיות",
-    "officialResourcesTitle": "משאבים ומידע רשמיים",
-    "officialLinks": {
-      "bgTourism": "משרד התיירות של בולגריה",
-      "bgTourismPortal": "הפורטל התיירותי הרשמי של בולגריה",
-      "bgCulture": "משרד התרבות של בולגריה",
-      "bgHeritage": "המכון הלאומי למורשת תרבות בלתי ניידת",
-      "bsGovernment": "הנהלת מחוז בורגס",
-      "bgForeignMinistry": "משרד החוץ - שירותים קונסולריים"
-    },
-    "disclaimer": "אתר זה הוא פרויקט מידע תיירותי בלתי תלוי של צד שלישי. אין לנו קשר לממשלה המקומית או לסוכנויות רשמיות אחרות.",
-    "editorialNote": "תוכן דף זה הוכן ונבדק על ידי צוות מערכת בלתי תלוי ומיועד לעיון בלבד.",
-    "imageCopyright": "כל התמונות המוצגות באתר זה הן רכוש ובבעלות הצלמים המתאימים.",
-    "lastUpdated": "עודכן לאחרונה: 31 באוגוסט 2026"
+    "rights": "© 2026 לונה פארק סאני ביץ׳ · כל הזכויות שמורות",
+    "disclaimer": "אתר זה הוא מיזם עצמאי למידע תיירותי. אין לנו זיקה לגוף ממשלתי או לארגון רשמי כלשהו."
   },
   "officialManagement": {
     "title": "על לונה פארק סאני ביץ'",
@@ -420,15 +413,54 @@
   },
   "sources": {
     "title": "מקורות והפניות",
-    "subtitle": "מקורות רשמיים ששימשו בהכנת מדריך זה",
+    "subtitle": "מקורות רשמיים וחומרי עזר ששימשו להכנת המדריך.",
     "items": [
-      { "name": "משרד התיירות של רפובליקה בולגריה", "url": "https://www.tourism.government.bg/" },
-      { "name": "הפורטל התיירותי הרשמי של בולגריה", "url": "https://www.bulgariatravel.org/" },
-      { "name": "עיריית בורגס", "url": "https://www.burgas.bg/" },
-      { "name": "הנהלת מחוז בורגס", "url": "http://bs.government.bg/" },
-      { "name": "יונסק\"ו – העיר העתיקה נסבר", "url": "https://whc.unesco.org/en/list/217/" },
-      { "name": "Google Maps – לונה פארק סאני ביץ'", "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86" }
-    ]
+      {
+        "name": "משרד התיירות של רפובליקה בולגריה",
+        "url": "https://www.tourism.government.bg/"
+      },
+      {
+        "name": "הפורטל התיירותי הרשמי של בולגריה",
+        "url": "https://www.bulgariatravel.org/"
+      },
+      {
+        "name": "עיריית בורגס",
+        "url": "https://www.burgas.bg/"
+      },
+      {
+        "name": "הנהלת מחוז בורגס",
+        "url": "http://bs.government.bg/"
+      },
+      {
+        "name": "יונסק\"ו – העיר העתיקה נסבר",
+        "url": "https://whc.unesco.org/en/list/217/"
+      },
+      {
+        "name": "Google Maps – לונה פארק סאני ביץ'",
+        "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
+      },
+      {
+        "name": "משרד התרבות של בולגריה",
+        "url": "https://mc.government.bg/"
+      },
+      {
+        "name": "המכון הלאומי למורשת תרבות בלתי ניידת",
+        "url": "http://ninkn.bg/"
+      },
+      {
+        "name": "משרד החוץ - שירותים קונסולריים",
+        "url": "https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria"
+      }
+    ],
+    "editorialTitle": "מידע מערכתי",
+    "editorialNote": "תוכן דף זה הוכן ונבדק על ידי צוות מערכת בלתי תלוי ומיועד לעיון בלבד.",
+    "imageTitle": "זכויות בתמונות",
+    "imageCopyright": "כל התמונות המוצגות באתר זה הן רכוש ובבעלות הצלמים המתאימים.",
+    "policiesTitle": "מדיניות האתר",
+    "lastUpdated": "עדכון התוכן האחרון: 23 בנובמבר 2026",
+    "privacy-policy": "מדיניות פרטיות",
+    "terms-of-service": "תנאי שימוש",
+    "cookie-settings": "הגדרות עוגיות"
   },
   "weather": {
     "title": "מזג אוויר נוכחי ותחזית",

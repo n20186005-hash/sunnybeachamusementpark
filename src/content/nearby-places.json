@@ -1,0 +1,711 @@
+[
+  {
+    "slug": "old-nesebar",
+    "area": "old",
+    "access": "district",
+    "names": [
+      "Старинен Несебър",
+      "Old Nesebar",
+      "内塞巴尔古城",
+      "נסבר העתיקה",
+      "Nessebarul Vechi"
+    ],
+    "descriptions": [
+      "Преминете по провлака и сравнете каменните църкви с дървените горни етажи на крайбрежните къщи. ЮНЕСКО вписва полуострова през 1983 г.",
+      "Cross the causeway and compare the stone churches with the timber upper floors of the coastal houses. UNESCO inscribed the peninsula in 1983.",
+      "沿堤道走进半岛，对照石砌教堂和老民居的木构上层。古城于 1983 年列入世界遗产名录。",
+      "חצו את הסוללה והשוו את כנסיות האבן לקומות העץ של בתי החוף. חצי האי הוכרז אתר מורשת עולמית ב־1983.",
+      "Traversați istmul și comparați bisericile din piatră cu etajele din lemn ale caselor de coastă. UNESCO a înscris peninsula în 1983."
+    ],
+    "address": "Провлакът към Стария град, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "unesco"
+  },
+  {
+    "slug": "nesebar-windmill",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Дървената вятърна мелница",
+      "Wooden Windmill of Nesebar",
+      "内塞巴尔木风车",
+      "טחנת הרוח מעץ של נסבר",
+      "Moara de vânt din lemn din Nessebar"
+    ],
+    "descriptions": [
+      "Мелницата на провлака е възстановена след 1944 г. От тротоара се вижда как дървената конструкция стъпва върху каменната основа.",
+      "The causeway mill was rebuilt after 1944. From the pavement, look for the join between the timber body and its stone base.",
+      "这座堤道风车在 1944 年后重建。从人行道可看清木构上部与石基底的衔接。",
+      "טחנת הסוללה שוחזרה אחרי 1944. מהמדרכה ראו את החיבור בין גוף העץ לבסיס האבן.",
+      "Moara de pe istm a fost reconstruită după 1944. De pe trotuar se vede îmbinarea corpului de lemn cu baza de piatră."
+    ],
+    "address": "ул. „Месамбрия“, провлакът, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "nesebar-western-gate",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Западна крепостна стена и порта",
+      "Western Fortress Gate of Nesebar",
+      "内塞巴尔西城门与城墙",
+      "השער המערבי של נסבר",
+      "Poarta vestică a cetății Nessebar"
+    ],
+    "descriptions": [
+      "При входа на полуострова потърсете очертанията на петстенните кули. Стените пазят следи от различни строителни периоди.",
+      "At the entrance to the peninsula, look for the outlines of the pentagonal towers. The walls retain evidence of successive building phases.",
+      "进入半岛时留意五边形塔楼的轮廓，城墙上能看到不同时期的砌筑痕迹。",
+      "בכניסה לחצי האי חפשו את קווי המתאר של המגדלים המחומשים. בחומות ניכרים שלבי בנייה שונים.",
+      "La intrarea pe peninsulă observați conturul turnurilor pentagonale. Zidurile păstrează urmele mai multor etape de construcție."
+    ],
+    "address": "ул. „Месамбрия“, западният вход, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "nesebar-archaeological-museum",
+    "area": "old",
+    "access": "museum",
+    "names": [
+      "Археологически музей Несебър",
+      "Nesebar Archaeological Museum",
+      "内塞巴尔考古博物馆",
+      "המוזיאון הארכאולוגי של נסבר",
+      "Muzeul Arheologic din Nessebar"
+    ],
+    "descriptions": [
+      "Експозицията проследява историята на Месамбрия през четири зали. Започнете оттук, за да разпознавате периодите на крепостните стени и църквите при разходката.",
+      "Four galleries trace the history of Mesambria. Start here to put the fortifications and churches you see on foot into historical context.",
+      "四个展厅梳理古城梅桑布里亚的发展。先看展览，再步行辨认城墙和教堂各自的历史阶段。",
+      "ארבעה אולמות מציגים את תולדות מסמבריה. התחילו כאן כדי להבין את תקופות הבנייה של החומות והכנסיות שתראו בהליכה.",
+      "Patru săli urmăresc istoria Mesambriei. Începeți aici pentru a înțelege epocile zidurilor și bisericilor de pe traseu."
+    ],
+    "address": "ул. „Месамбрия“ 2А, 8231 Несебър",
+    "operator": "museum",
+    "source": "archaeologicalMuseum"
+  },
+  {
+    "slug": "st-sophia",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Църква „Света София“",
+      "Church of Saint Sophia",
+      "圣索菲亚教堂遗址",
+      "כנסיית סופיה הקדושה",
+      "Biserica Sfânta Sofia"
+    ],
+    "descriptions": [
+      "Старата митрополия е ранновизантийска трикорабна базилика. Влезте от площада и погледнете през редовете арки към апсидата.",
+      "The Old Metropolitan Church is an early Byzantine three-aisled basilica. Approach from the square and look through the rows of arches toward the apse.",
+      "这座早期拜占庭三廊式巴西利卡原为旧主教座堂。从广场走近，透过成排拱券望向后殿。",
+      "הכנסייה המטרופוליטנית הישנה היא בזיליקה ביזנטית קדומה בת שלושה אגפים. מהכיכר הביטו דרך שורות הקשתות לעבר האפסיס.",
+      "Vechea mitropolie este o bazilică bizantină timpurie cu trei nave. Din piață priviți printre arcade spre absidă."
+    ],
+    "address": "площадът при Старата митрополия, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "christ-pantocrator",
+    "area": "old",
+    "access": "museum",
+    "names": [
+      "Църква „Христос Пантократор“",
+      "Church of Christ Pantocrator",
+      "基督全能者教堂",
+      "כנסיית ישו פנטוקרטור",
+      "Biserica Hristos Pantocrator"
+    ],
+    "descriptions": [
+      "На площада обиколете фасадата и потърсете редовете тухли, камък и цветни керамични вложки на средновековната църква.",
+      "Walk around the square to see the bands of brick and stone and the coloured ceramic details on this medieval church.",
+      "沿广场绕看这座中世纪教堂，留意砖石相间的纹路和彩色陶饰。",
+      "הקיפו את הכיכר כדי לראות את פסי הלבנים והאבן ואת עיטורי הקרמיקה הצבעוניים של הכנסייה מימי הביניים.",
+      "Ocoliți piața pentru a vedea benzile de cărămidă și piatră și inserțiile ceramice colorate ale bisericii medievale."
+    ],
+    "address": "пл. „Месамбрия“, 8231 Несебър",
+    "operator": "museum",
+    "source": "guide"
+  },
+  {
+    "slug": "st-stephen",
+    "area": "old",
+    "access": "museum",
+    "names": [
+      "Църква „Свети Стефан“",
+      "Church of Saint Stephen",
+      "圣斯德望教堂",
+      "כנסיית סטפנוס הקדוש",
+      "Biserica Sfântul Ștefan"
+    ],
+    "descriptions": [
+      "Новата митрополия пази стенописи от 1599 г. Вътре проследете сцените по стените, като оставите място за другите посетители.",
+      "The New Metropolitan Church preserves frescoes from 1599. Inside, follow the scenes along the walls and leave room for other visitors.",
+      "新主教座堂保留了 1599 年的壁画。入内可沿墙观看连续场景，并给其他游客留出通行空间。",
+      "הכנסייה המטרופוליטנית החדשה שומרת ציורי קיר מ־1599. עקבו אחר הסצנות שעל הקירות והשאירו מעבר למבקרים אחרים.",
+      "Noua mitropolie păstrează fresce din 1599. Urmăriți scenele pictate pe pereți și lăsați loc celorlalți vizitatori."
+    ],
+    "address": "ул. „Рибарска“, 8231 Несебър",
+    "operator": "museum",
+    "source": "guide"
+  },
+  {
+    "slug": "st-john-baptist",
+    "area": "old",
+    "access": "museum",
+    "names": [
+      "Църква „Свети Йоан Кръстител“",
+      "Church of Saint John the Baptist",
+      "施洗者圣约翰教堂",
+      "כנסיית יוחנן המטביל",
+      "Biserica Sfântul Ioan Botezătorul"
+    ],
+    "descriptions": [
+      "Куполната църква е построена около началото на XI в. Сравнете цилиндричния барабан с трите полукръгли апсиди на изток.",
+      "Built around the turn of the 11th century, the church has a cylindrical dome drum and three semicircular east apses worth comparing from outside.",
+      "教堂约建于 11 世纪初，从外侧可对照圆柱形穹顶鼓座和东侧的三座半圆后殿。",
+      "הכנסייה נבנתה סביב תחילת המאה ה־11. מבחוץ השוו את התוף הגלילי של הכיפה לשלושת האפסיסים המעוגלים במזרח.",
+      "Biserica a fost construită în jurul începutului secolului al XI-lea. Comparați tamburul cilindric al cupolei cu cele trei abside semicirculare din est."
+    ],
+    "address": "при пл. „Месамбрия“, 8231 Несебър",
+    "operator": "museum",
+    "source": "guide"
+  },
+  {
+    "slug": "st-paraskeva",
+    "area": "old",
+    "access": "museum",
+    "names": [
+      "Църква „Света Параскева“",
+      "Church of Saint Paraskeva",
+      "圣帕拉斯凯娃教堂",
+      "כנסיית פרסקווה הקדושה",
+      "Biserica Sfânta Parascheva"
+    ],
+    "descriptions": [
+      "Проследете декоративните арки по дългата стена на еднокорабната църква. Тухлите и камъкът подчертават всяка арка.",
+      "Follow the decorative arches along the long wall of this single-nave church. Brick and stone bring out the shape of each arch.",
+      "沿这座单廊教堂的长墙观察装饰拱，留意砖与石如何勾勒每道拱的轮廓。",
+      "עקבו אחר קשתות העיטור לאורך הקיר של הכנסייה החד־ספינתית. הלבנים והאבן מדגישות את צורת כל קשת.",
+      "Urmăriți arcadele decorative de pe latura lungă a bisericii cu o singură navă. Cărămida și piatra subliniază forma fiecărei arcade."
+    ],
+    "address": "ул. „Хемус“, 8231 Несебър",
+    "operator": "museum",
+    "source": "guide"
+  },
+  {
+    "slug": "holy-archangels",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Църква „Свети архангели Михаил и Гавраил“",
+      "Church of the Holy Archangels Michael and Gabriel",
+      "米迦勒与加百列总领天使教堂",
+      "כנסיית המלאכים מיכאל וגבריאל",
+      "Biserica Sfinții Arhangheli Mihail și Gavriil"
+    ],
+    "descriptions": [
+      "Погледнете фасадата откъм улицата, където глухите арки и редуващите се зидове се виждат най-ясно. Църквата е близо до „Света Параскева“.",
+      "View the patterned masonry and blind arches from the lane, then compare them with the decoration at nearby Saint Paraskeva.",
+      "从巷道看砖石纹样与盲拱，再到邻近的圣帕拉斯凯娃教堂比较两座建筑的装饰。",
+      "מהסמטה ראו את העיטור ואת הקשתות האטומות, ואז השוו אותם לעיטורי כנסיית פרסקווה הסמוכה.",
+      "Priviți din stradă zidăria decorativă și arcadele oarbe, apoi comparați-le cu decorația bisericii Sfânta Parascheva din apropiere."
+    ],
+    "address": "до църквата „Света Параскева“, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "st-john-aliturgetos",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Църква „Свети Йоан Алитургетос“",
+      "Church of Saint John Aliturgetos",
+      "未祝圣的圣约翰教堂",
+      "כנסיית יוחנן אליטורגטוס",
+      "Biserica Sfântul Ioan Aliturgetos"
+    ],
+    "descriptions": [
+      "Руините над южния бряг се отличават с богати тухлени мотиви. От горната алея се вижда как църквата стои над амфитеатъра и пристанището.",
+      "These ruins above the south shore are known for their elaborate brick patterns. From the upper path you can see how the church sits above the amphitheatre and port.",
+      "南岸上方的教堂遗址有细密砖饰。从上方步道能看清教堂、露天剧场和港口的高差。",
+      "החורבות שמעל החוף הדרומי ידועות בדגמי הלבנים שלהן. מהשביל העליון רואים את מיקום הכנסייה מעל האמפיתיאטרון והנמל.",
+      "Ruinele deasupra țărmului sudic se remarcă prin motivele din cărămidă. De pe aleea de sus se vede poziția bisericii deasupra amfiteatrului și portului."
+    ],
+    "address": "над Амфитеатър Несебър, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "virgin-eleusa",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Базилика „Богородица Елеуса“",
+      "Basilica of the Virgin Eleusa",
+      "仁慈圣母巴西利卡遗址",
+      "בזיליקת הבתולה אלאוסה",
+      "Bazilica Fecioarei Eleusa"
+    ],
+    "descriptions": [
+      "Ниските зидове на северния бряг очертават ранновизантийска трикорабна базилика. Погледнете плана от алеята до каменната мелница.",
+      "Low walls on the northern shore trace the plan of an early Byzantine three-aisled basilica. Look down on them from the path by the stone windmill.",
+      "北岸的低矮残墙勾勒出早期拜占庭三廊式巴西利卡的平面。可从石风车旁的步道俯看。",
+      "הקירות הנמוכים בחוף הצפוני מסמנים את תוכנית הבזיליקה הביזנטית הקדומה. הביטו בהם מהשביל ליד טחנת האבן.",
+      "Zidurile joase de pe țărmul nordic conturează o bazilică bizantină timpurie cu trei nave. Priviți planul de pe aleea de lângă moara de piatră."
+    ],
+    "address": "северният бряг до Каменната мелница, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "st-theodore",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Църква „Свети Тодор“",
+      "Church of Saint Theodore",
+      "圣狄奥多尔教堂",
+      "כנסיית תאודור הקדוש",
+      "Biserica Sfântul Teodor"
+    ],
+    "descriptions": [
+      "Малката еднокорабна църква е от XIII в. Сравнете запазената зидария по южната и източната страна с възстановените части.",
+      "This small single-nave church dates to the 13th century. Compare the surviving masonry on the south and east sides with the reconstructed portions.",
+      "这座小型单廊教堂可追溯至 13 世纪。可对照南、东两侧保存的砌体与重建部分。",
+      "הכנסייה הקטנה בעלת האולם היחיד היא מהמאה ה־13. השוו את הבנייה שנשתמרה בדרום ובמזרח לחלקים המשוחזרים.",
+      "Biserica mică, cu o singură navă, datează din secolul al XIII-lea. Comparați zidăria păstrată la sud și est cu porțiunile reconstruite."
+    ],
+    "address": "североизточната част на Стария град, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "st-saviour",
+    "area": "old",
+    "access": "museum",
+    "names": [
+      "Църква „Свети Спас“",
+      "Church of the Holy Saviour",
+      "圣救主教堂",
+      "כנסיית המושיע הקדוש",
+      "Biserica Sfântul Mântuitor"
+    ],
+    "descriptions": [
+      "Ниската църква „Възнесение Господне“ е построена върху останки от по-стар храм. Вътрешните стенописи заслужават отделно посещение, когато обектът е отворен.",
+      "The low Church of the Ascension was built over an earlier church. Its interior frescoes are worth a separate visit when the building is open.",
+      "低矮的升天教堂建在早期教堂遗址之上。开放时可专程入内看壁画。",
+      "כנסיית העלייה הנמוכה נבנתה על שרידי כנסייה קודמת. כאשר היא פתוחה כדאי להיכנס כדי לראות את ציורי הקיר.",
+      "Biserica joasă a Înălțării a fost ridicată peste un lăcaș mai vechi. Când este deschisă, merită o oprire pentru picturile murale."
+    ],
+    "address": "до Ранновизантийските терми, 8231 Несебър",
+    "operator": "museum",
+    "source": "guide"
+  },
+  {
+    "slug": "nesebar-ethnographic-museum",
+    "area": "old",
+    "access": "museum",
+    "names": [
+      "Етнографски музей Несебър",
+      "Nesebar Ethnographic Museum",
+      "内塞巴尔民族志博物馆",
+      "המוזיאון האתנוגרפי של נסבר",
+      "Muzeul Etnografic din Nessebar"
+    ],
+    "descriptions": [
+      "Къщата на Москяни от 1840 г. показва традиционни тъкани, облекла и предмети от дома. Вижте как изложбата се вписва в стаите на търговска къща.",
+      "The 1840 Moskoyani House displays textiles, clothing and household objects. Notice how the exhibition fits into the rooms of a former merchant’s home.",
+      "博物馆位于 1840 年建成的莫斯科亚尼宅邸，展出织物、服装和家用器具。参观时可观察展品在旧商宅各房间的布置。",
+      "בית מוסקויאני מ־1840 מציג אריגים, בגדים וחפצי בית. שימו לב לאופן שבו התצוגה משתלבת בחדרי בית הסוחר.",
+      "Casa Moskoyani din 1840 prezintă țesături, costume și obiecte casnice. Observați cum expoziția se încadrează în camerele fostei case de negustor."
+    ],
+    "address": "къщата на Москяни, ул. „Месембрия“ 32, 8231 Несебър",
+    "operator": "museum",
+    "source": "guide"
+  },
+  {
+    "slug": "nesebar-south-beach",
+    "area": "new",
+    "access": "beach",
+    "names": [
+      "Южен плаж Несебър",
+      "Nesebar South Beach",
+      "内塞巴尔南海滩",
+      "החוף הדרומי של נסבר",
+      "Plaja de Sud din Nessebar"
+    ],
+    "descriptions": [
+      "Южният плаж е на материка. От открития пясъчен бряг се вижда полуостровът, а крайбрежният парк дава удобна връзка към новия град.",
+      "South Beach lies on the mainland. The open sandy shore looks toward the peninsula, and the coastal park provides a walking connection to the new town.",
+      "南海滩位于大陆一侧，开阔沙岸可以望见古城半岛，沿海公园连接新城。",
+      "החוף הדרומי נמצא בצד היבשתי. מרצועת החול רואים את חצי האי, והפארק החופי מחבר בהליכה לעיר החדשה.",
+      "Plaja de Sud se află pe continent. De pe nisip se vede peninsula, iar parcul de coastă oferă acces pietonal către orașul nou."
+    ],
+    "address": "под Южния парк, 8230 Несебър",
+    "operator": "beach",
+    "source": "nesebarSouth",
+    "destination": "42.6525579,27.7139342"
+  },
+  {
+    "slug": "nesebar-harbour",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Пристанище Стария Несебър",
+      "Old Nesebar Harbour",
+      "内塞巴尔古城港口",
+      "נמל נסבר העתיקה",
+      "Portul orașului vechi Nessebar"
+    ],
+    "descriptions": [
+      "Край южния кей погледнете от лодките нагоре към църквата „Свети Йоан Алитургетос“. Пешеходната част е удобна за кратка спирка между амфитеатъра и центъра.",
+      "From the south quay, look from the boats up to Saint John Aliturgetos. The public walkway makes a short stop between the amphitheatre and the centre.",
+      "从南岸码头的船只向上望，可见未祝圣的圣约翰教堂。沿公共步道可在露天剧场与古城中心之间安排短暂停留。",
+      "מהרציף הדרומי הביטו מהסירות למעלה לכנסיית יוחנן אליטורגטוס. הטיילת הציבורית מתאימה לעצירה קצרה בין האמפיתיאטרון למרכז.",
+      "De pe cheiul sudic priviți de la bărci spre biserica Sfântul Ioan Aliturgetos. Promenada publică e o oprire scurtă între amfiteatru și centru."
+    ],
+    "address": "южният кей под Амфитеатъра, 8231 Несебър",
+    "operator": "none",
+    "source": "guide"
+  },
+  {
+    "slug": "nesebar-early-byzantine-baths",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Ранновизантийски терми",
+      "Early Byzantine Baths of Nesebar",
+      "内塞巴尔早期拜占庭浴场",
+      "המרחצאות הביזנטיים הקדומים",
+      "Termele bizantine timpurii din Nessebar"
+    ],
+    "descriptions": [
+      "Термите са от VI в., от времето на Юстиниан I. От улицата североизточно от „Свети Йоан Кръстител“ се виждат основите на няколко помещения.",
+      "The baths date to the sixth century under Justinian I. The street northeast of Saint John the Baptist overlooks the foundations of several rooms.",
+      "浴场建于 6 世纪查士丁尼一世时期。从施洗者圣约翰教堂东北侧街道可看到数个房间的地基。",
+      "המרחצאות הם מן המאה השישית, מימי יוסטיניאנוס הראשון. מהרחוב שמצפון־מזרח לכנסיית יוחנן המטביל נשקפים יסודות של כמה חדרים.",
+      "Termele datează din secolul al VI-lea, din vremea lui Iustinian I. Din strada de la nord-est de biserica Sfântul Ioan se văd fundațiile mai multor încăperi."
+    ],
+    "address": "североизточно от „Свети Йоан Кръстител“, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "nesebar-amphitheatre",
+    "area": "old",
+    "access": "venue",
+    "names": [
+      "Амфитеатър Несебър",
+      "Nesebar Amphitheatre",
+      "内塞巴尔露天剧场",
+      "האמפיתיאטרון של נסבר",
+      "Amfiteatrul din Nessebar"
+    ],
+    "descriptions": [
+      "Откритата сцена под „Свети Йоан Алитургетос“ приема фестивали и представления. От горните редове погледът стига над пристанището към залива.",
+      "The open-air stage below Saint John Aliturgetos hosts festivals and performances. The upper tiers look over the harbour toward the bay.",
+      "未祝圣的圣约翰教堂下方是举办演出与节庆的露天剧场，上层看台能越过港口望向海湾。",
+      "הבמה הפתוחה מתחת לכנסיית יוחנן אליטורגטוס מארחת פסטיבלים ומופעים. מהשורות העליונות נשקף המפרץ מעבר לנמל.",
+      "Scena în aer liber de sub biserica Sfântul Ioan Aliturgetos găzduiește festivaluri și spectacole. De la rândurile de sus se vede golful peste port."
+    ],
+    "address": "под „Свети Йоан Алитургетос“, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "nesebar-stone-windmill",
+    "area": "old",
+    "access": "outdoor",
+    "names": [
+      "Каменната вятърна мелница",
+      "Stone Windmill of Nesebar",
+      "内塞巴尔石风车",
+      "טחנת הרוח מאבן של נסבר",
+      "Moara de vânt din piatră din Nessebar"
+    ],
+    "descriptions": [
+      "Край базиликата Елеуса стои цилиндричната каменна мелница. От алеята огледайте масивния зид и арката на входа.",
+      "The cylindrical stone mill stands next to the Eleusa Basilica. From the coastal path, look at the heavy masonry and the arched doorway.",
+      "圆筒形石风车紧邻仁慈圣母巴西利卡。沿海步道可观察厚实的石墙和拱门。",
+      "טחנת האבן הגלילית עומדת ליד בזיליקת אלאוסה. מהשביל החופי ראו את הקיר העבה ואת פתח הכניסה המקושת.",
+      "Moara cilindrică din piatră se află lângă bazilica Eleusa. De pe aleea de coastă observați zidul masiv și intrarea arcuită."
+    ],
+    "address": "северният бряг до базилика Елеуса, 8231 Несебър",
+    "operator": "nesebar",
+    "source": "guide"
+  },
+  {
+    "slug": "sunny-beach",
+    "area": "sunny",
+    "access": "beach",
+    "names": [
+      "Централен плаж Слънчев бряг",
+      "Sunny Beach Central Beach",
+      "阳光海滩中央沙滩",
+      "החוף המרכזי של סאני ביץ׳",
+      "Plaja Centrală Sunny Beach"
+    ],
+    "descriptions": [
+      "Пясъчната ивица пред курорта гледа към Стария Несебър. От Лунапарка стигате направо до крайбрежната алея за разходка покрай плажа.",
+      "The resort’s sandy shore looks across to Old Nesebar. From Luna Park, step onto the seafront promenade to explore the beach on foot.",
+      "度假区的沙岸隔湾望向内塞巴尔古城。从游乐园出来即可沿海滨步道步行到沙滩。",
+      "רצועת החול של אתר הנופש משקיפה על נסבר העתיקה. מהלונה פארק צאו לטיילת החוף כדי להגיע לחוף ברגל.",
+      "De pe fâșia de nisip a stațiunii se vede Nessebarul Vechi. Ieșiți din Luna Park pe promenadă pentru a explora plaja pe jos."
+    ],
+    "address": "крайбрежната алея при Лунапарка, 8240 Слънчев бряг",
+    "operator": "beach",
+    "source": "sunnyCentral",
+    "destination": "42.6876691,27.7131129"
+  },
+  {
+    "slug": "action-aquapark",
+    "area": "sunny",
+    "access": "park",
+    "names": [
+      "Екшън Аквапарк",
+      "Action Aquapark",
+      "Action 水上乐园",
+      "פארק המים אקשן",
+      "Action Aquapark"
+    ],
+    "descriptions": [
+      "Водният парк е във вътрешността на курорта. Планирайте посещението около зоните за плуване и пързалките според ръста и увереността във водата на групата.",
+      "The park is inland from the resort seafront. Choose pools and slides based on each visitor’s height and confidence in the water.",
+      "水上乐园位于度假区内陆一侧。可按同行者的身高与水性安排泳池和滑道。",
+      "הפארק נמצא בפנים אתר הנופש. בחרו בריכות ומגלשות לפי הגובה והביטחון במים של כל מבקר.",
+      "Parcul este în interiorul stațiunii. Alegeți bazinele și toboganele după înălțimea și siguranța în apă a fiecărui vizitator."
+    ],
+    "address": "западна част на курорта, 8240 Слънчев бряг",
+    "operator": "action",
+    "source": "action"
+  },
+  {
+    "slug": "aqua-paradise",
+    "area": "ravda",
+    "access": "park",
+    "names": [
+      "Аква Парадайз Несебър",
+      "Aqua Paradise Nessebar",
+      "内塞巴尔 Aqua Paradise 水上乐园",
+      "אקווה פרדייז נסבר",
+      "Aqua Paradise Nessebar"
+    ],
+    "descriptions": [
+      "Аквапаркът е край пътя между Несебър и Равда. Съчетайте по-спокойните водни зони с по-големите пързалки и уговорете място за среща на групата.",
+      "The water park sits by the road between Nesebar and Ravda. Mix quieter water areas with the larger slides and agree on a meeting point for your group.",
+      "乐园在内塞巴尔通往拉夫达的道路旁。可以搭配较平缓的水域和大型滑道，同行者可先约定集合点。",
+      "פארק המים נמצא ליד הכביש בין נסבר לרבדה. שלבו אזורי מים רגועים עם המגלשות הגדולות וקבעו נקודת מפגש לקבוצה.",
+      "Parcul acvatic se află lângă drumul dintre Nessebar și Ravda. Alternați zonele liniștite cu toboganele mari și stabiliți un loc de întâlnire."
+    ],
+    "address": "пътят Несебър–Равда, 8238 Равда",
+    "operator": "paradise",
+    "source": "paradise"
+  },
+  {
+    "slug": "marina-dinevi",
+    "area": "vlas",
+    "access": "marina",
+    "names": [
+      "Марина Диневи",
+      "Marina Dinevi",
+      "迪内维游艇码头",
+      "מרינה דינבי",
+      "Marina Dinevi"
+    ],
+    "descriptions": [
+      "Яхтеното пристанище е под склоновете на Свети Влас. От обществената алея гледката събира мачтите и отсрещния бряг на Несебърския залив.",
+      "The marina sits below the slopes of Sveti Vlas. From the public promenade, look past the masts toward the far side of Nesebar Bay.",
+      "码头位于圣弗拉斯山坡下方。从公共步道可越过游艇桅杆望向内塞巴尔湾对岸。",
+      "המרינה נמצאת למרגלות מדרונות סווטי ולאס. מהטיילת הציבורית הביטו מעבר לתרנים לעבר הגדה השנייה של מפרץ נסבר.",
+      "Portul de iahturi se află sub pantele din Sveti Vlas. De pe promenada publică priviți dincolo de catarge spre celălalt mal al golfului Nessebar."
+    ],
+    "address": "яхтеното пристанище, 8256 Свети Влас",
+    "operator": "dinevi",
+    "source": "vlas"
+  },
+  {
+    "slug": "irakli-beach",
+    "area": "north",
+    "access": "nature",
+    "names": [
+      "Плаж Иракли",
+      "Irakli Beach",
+      "伊拉克利海滩",
+      "חוף אירקלי",
+      "Plaja Irakli"
+    ],
+    "descriptions": [
+      "Плажът е под зелените склонове северно от нос Емине. За крайбрежния пейзаж останете върху установените подходи и гледайте как пясъкът преминава в дюни.",
+      "The beach lies below green slopes north of Cape Emine. Stay on established approaches and look for the transition from open sand to dunes.",
+      "海滩位于埃米内角北侧的绿色山坡下。沿既有通道观察开阔沙岸向沙丘过渡的地貌。",
+      "החוף נמצא מתחת למדרונות הירוקים שמצפון לכף אמינה. הישארו בדרכי הגישה הקיימות והתבוננו במעבר מהחול הפתוח לדיונות.",
+      "Plaja se află sub pantele verzi, la nord de Capul Emine. Rămâneți pe căile de acces existente și observați trecerea de la nisipul deschis la dune."
+    ],
+    "address": "подходът за плаж Иракли, край с. Емона",
+    "operator": "burgasEnvironment",
+    "source": "irakli",
+    "operatorSource": "irakliRegister"
+  },
+  {
+    "slug": "cape-emine",
+    "area": "north",
+    "access": "nature",
+    "names": [
+      "Нос Емине",
+      "Cape Emine",
+      "埃米内角",
+      "כף אמינה",
+      "Capul Emine"
+    ],
+    "descriptions": [
+      "Тук Стара планина достига Черно море. От разрешения подход край Емона се вижда как скалният нос разделя бреговата линия.",
+      "Here the Balkan Mountains meet the Black Sea. Use permitted approaches near Emona to see how the rocky headland breaks the line of the coast.",
+      "巴尔干山脉在这里抵达黑海。从埃莫纳附近允许通行的路段，可远望岩岬伸入海中的轮廓。",
+      "כאן הרי הבלקן פוגשים את הים השחור. מגישה מותרת ליד אמונה ראו כיצד לשון הסלע קוטעת את קו החוף.",
+      "Aici Munții Balcani întâlnesc Marea Neagră. Folosiți accesul permis lângă Emona pentru a vedea promontoriul stâncos care întrerupe linia coastei."
+    ],
+    "address": "източно от с. Емона, община Несебър",
+    "operator": "burgasEnvironment",
+    "source": "cape",
+    "operatorSource": "capeRegister"
+  },
+  {
+    "slug": "pomorie-salt-museum",
+    "area": "pomorie",
+    "access": "pomMuseum",
+    "names": [
+      "Музей на солта",
+      "Pomorie Salt Museum",
+      "波莫里耶盐业博物馆",
+      "מוזיאון המלח של פומוריה",
+      "Muzeul Sării din Pomorie"
+    ],
+    "descriptions": [
+      "Музеят показва как слънцето изпарява водата в плитките солници. Сравнете инструментите в залата с басейните край езерото.",
+      "The museum shows how sun and shallow pans concentrate brine. Compare the tools inside with the salt pans beside the lake.",
+      "博物馆展示利用太阳蒸发浅池盐水的制盐方式。可将室内工具与湖边盐池对照观看。",
+      "המוזיאון מציג כיצד השמש מרכזת תמלחת בבריכות רדודות. השוו את כלי העבודה באולם לבריכות שליד האגם.",
+      "Muzeul arată cum soarele concentrează saramura în bazine puțin adânci. Comparați uneltele expuse cu salinele de lângă lac."
+    ],
+    "address": "ул. „Солна“, южен бряг на езерото, 8200 Поморие",
+    "operator": "pomorie",
+    "source": "salt"
+  },
+  {
+    "slug": "pomorie-thracian-tomb",
+    "area": "pomorie",
+    "access": "pomMuseum",
+    "names": [
+      "Антична куполна гробница",
+      "Pomorie Thracian Domed Tomb",
+      "波莫里耶色雷斯穹顶墓",
+      "הקבר התראקי הכיפתי של פומוריה",
+      "Mormântul tracic cu cupolă din Pomorie"
+    ],
+    "descriptions": [
+      "Под насипа западно от града се крие кръгла камера. Вътре погледнете как кухият централен стълб се разширява към свода.",
+      "Beneath a mound west of town lies a round chamber. Inside, look for the hollow central column flaring into the vault.",
+      "城西土丘下藏着圆形墓室。进入后可观察中空的中央柱如何向上展开并接入穹顶。",
+      "מתחת לתלולית ממערב לעיר נמצא חדר עגול. בפנים ראו כיצד העמוד המרכזי החלול מתרחב אל הקמרון.",
+      "Sub o movilă la vest de oraș se află o cameră circulară. În interior observați cum stâlpul central gol se lărgește către boltă."
+    ],
+    "address": "отбивката от път I-9 западно от Поморие",
+    "operator": "pomHistory",
+    "source": "tomb"
+  },
+  {
+    "slug": "pomorie-st-george-monastery",
+    "area": "pomorie",
+    "access": "worship",
+    "names": [
+      "Манастир „Свети Георги“",
+      "Saint George Monastery, Pomorie",
+      "波莫里耶圣乔治修道院",
+      "מנזר גאורגיוס הקדוש בפומוריה",
+      "Mănăstirea Sfântul Gheorghe din Pomorie"
+    ],
+    "descriptions": [
+      "В действащия манастир разгледайте двора и църквата, когато са достъпни. Общинският пътеводител свързва днешния комплекс с основаването му през 1856 г.",
+      "Visit the courtyard and church of this active monastery when accessible. The municipal guide dates the present foundation to 1856.",
+      "这是一座仍在使用的修道院，开放时可参观庭院和教堂。市政府导览将现有修道院的建立追溯到 1856 年。",
+      "במנזר הפעיל אפשר לבקר בחצר ובכנסייה כשהן פתוחות. מדריך העירייה מתארך את ייסוד המתחם הנוכחי ל־1856.",
+      "Vizitați curtea și biserica mănăstirii active atunci când sunt deschise. Ghidul municipal datează întemeierea actualului ansamblu în 1856."
+    ],
+    "address": "ул. „Княз Борис I“ 108, 8201 Поморие",
+    "operator": "monastery",
+    "source": "monastery"
+  },
+  {
+    "slug": "pomorie-lake",
+    "area": "pomorie",
+    "access": "nature",
+    "names": [
+      "Поморийско езеро",
+      "Lake Pomorie",
+      "波莫里耶湖",
+      "אגם פומוריה",
+      "Lacul Pomorie"
+    ],
+    "descriptions": [
+      "Солената лагуна граничи със солници. От обществените места край южния бряг наблюдавайте водните птици с бинокъл и оставете спокойни плитчините.",
+      "The saline lagoon borders the salt pans. Watch waterbirds with binoculars from public areas on the south shore and leave the shallows undisturbed.",
+      "盐水潟湖与盐田相邻。可在南岸公共区域用望远镜观察水鸟，避免打扰浅滩。",
+      "הלגונה המלוחה גובלת בבריכות המלח. צפו בעופות מים במשקפת מהשטחים הציבוריים בחוף הדרומי והימנעו מהפרעה במים הרדודים.",
+      "Laguna sărată mărginește salinele. Priviți păsările de apă cu binoclul din zonele publice de pe malul sudic, fără a deranja apele puțin adânci."
+    ],
+    "address": "южен бряг до Музея на солта, 8200 Поморие",
+    "operator": "pomorieLake",
+    "source": "pomorieVisitorCenter"
+  },
+  {
+    "slug": "pomorie-historical-museum",
+    "area": "pomorie",
+    "access": "pomMuseum",
+    "names": [
+      "Исторически музей Поморие",
+      "Pomorie Historical Museum",
+      "波莫里耶历史博物馆",
+      "המוזיאון ההיסטורי של פומוריה",
+      "Muzeul de Istorie din Pomorie"
+    ],
+    "descriptions": [
+      "Експозициите за античния Анхиало и местния бит дават контекст на днешния град. Започнете с археологията и продължете към етнографските зали.",
+      "Displays on ancient Anchialos and local domestic life put the modern town in context. Start with archaeology and continue to the ethnography rooms.",
+      "古安基阿洛斯与地方生活展览为理解今天的波莫里耶提供背景。可先看考古展，再参观民俗展厅。",
+      "התצוגות על אנכיאלוס העתיקה ועל חיי היום־יום המקומיים נותנות הקשר לעיר של ימינו. התחילו בארכאולוגיה והמשיכו לאתנוגרפיה.",
+      "Expozițiile despre anticul Anchialos și viața locală explică trecutul orașului actual. Începeți cu arheologia și continuați în sălile de etnografie."
+    ],
+    "address": "ул. „Княз Борис I“ 33, 8200 Поморие",
+    "operator": "pomHistory",
+    "source": "history"
+  },
+  {
+    "slug": "pomorie-transfiguration",
+    "area": "pomorie",
+    "access": "worship",
+    "names": [
+      "Църква „Преображение Господне“",
+      "Church of the Transfiguration, Pomorie",
+      "波莫里耶主显圣容教堂",
+      "כנסיית ההשתנות בפומוריה",
+      "Biserica Schimbarea la Față din Pomorie"
+    ],
+    "descriptions": [
+      "Старата църква е в края на полуострова. Ниският каменен корпус и дървеният иконостас са два различни акцента при спокойно посещение.",
+      "The old church stands at the end of the peninsula. Notice the low stone exterior and, when open, the carved wooden iconostasis inside.",
+      "教堂位于老城半岛尽头，可从外侧看低矮的石砌建筑，开放时入内看木雕圣像屏。",
+      "הכנסייה העתיקה עומדת בקצה חצי האי. שימו לב למבנה האבן הנמוך, ובשעות הפתיחה למחיצת האיקונות המגולפת מעץ.",
+      "Biserica veche se află la capătul peninsulei. Observați exteriorul jos din piatră și, când este deschisă, iconostasul sculptat în lemn."
+    ],
+    "address": "ул. „Хан Кубрат“ 2, 8200 Поморие",
+    "operator": "slivenDiocese",
+    "source": "transfiguration",
+    "operatorSource": "slivenDiocese"
+  }
+]

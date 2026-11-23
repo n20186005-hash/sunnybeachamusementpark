@@ -1,3 +1,4 @@
+import Header from '@/components/Header';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -11,7 +12,8 @@ export function generateStaticParams() {
 
 const BASE_URL = 'https://sunnybeachamusementpark.com';
 const GA_ID = 'G-HXM22WWPKP';
-const LAST_UPDATED = '2026-08-31';
+const DATE_PUBLISHED = '2026-08-31';
+const LAST_UPDATED = '2026-11-23';
 
 const touristAttractionJsonLd = {
   '@context': 'https://schema.org',
@@ -175,7 +177,7 @@ export default async function LocaleLayout({
     isPartOf: { '@id': `${BASE_URL}/#website` },
     about: { '@id': `${BASE_URL}/#attraction` },
     publisher: { '@id': `${BASE_URL}/#organization` },
-    datePublished: LAST_UPDATED,
+    datePublished: DATE_PUBLISHED,
     dateModified: LAST_UPDATED,
   };
 
@@ -199,7 +201,7 @@ export default async function LocaleLayout({
   };
 
   return (
-    <html lang={langAttr} suppressHydrationWarning>
+    <html lang={langAttr} dir={locale === 'he' ? 'rtl' : 'ltr'} suppressHydrationWarning>
       <head>
         {/* Google Analytics 4 */}
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} />
@@ -261,6 +263,7 @@ export default async function LocaleLayout({
       </head>
       <body className="min-h-screen">
         <NextIntlClientProvider messages={messages}>
+          <Header />
           {children}
         </NextIntlClientProvider>
       </body>

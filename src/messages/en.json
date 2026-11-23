@@ -4,6 +4,11 @@
     "description": "Visitor guide to Sunny Beach Amusement Park (Лунапарк Слънчев бряг / Luna Park) in Sunny Beach, Bulgaria: location, opening hours, ride tickets & prices, transport, real-time weather, seasonal tips and family itineraries."
   },
   "header": {
+    "sources": "Sources",
+    "brand": "Sunny Beach Amusement Park",
+    "navigation": "Main navigation",
+    "language": "Switch language",
+    "theme": "Toggle theme",
     "home": "Home",
     "history": "History",
     "facilities": "Facilities",
@@ -17,7 +22,7 @@
     "title": "Sunny Beach Amusement Park (Sunny Beach)",
     "subtitle": "Luna Park · Amusement Park · Sunny Beach, Bulgaria",
     "rating": "4.4",
-    "reviewCount": "7,345 reviews",
+    "reviewCount": "7,362 reviews",
     "type": "Amusement Park",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
@@ -211,6 +216,8 @@
     ]
   },
   "faq": {
+    "questionLabel": "Question",
+    "answerLabel": "Answer",
     "title": "Frequently Asked Questions",
     "items": [
       {
@@ -270,7 +277,7 @@
     "city": "City",
     "cityValue": "Sunny Beach, Burgas Province",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.4 (7,345)",
+    "googleRatingValue": "4.4 (7,362)",
     "phone": "Phone",
     "phoneValue": "+359 897 847 003",
     "address": "Address",
@@ -318,6 +325,9 @@
     "drivingDesc": "Set your navigation to 'Sunny Beach Amusement Park'. Because the park is inside a pedestrian zone, we suggest parking at one of the paid lots nearby (for example by the Central Bus Station) and walking the last few minutes to the entrance."
   },
   "gallery": {
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "close": "Close gallery",
     "title": "Photo Gallery",
     "subtitle": "Fun Moments at Sunny Beach Amusement Park",
     "captions": [
@@ -394,25 +404,8 @@
     "officialPortalLabel": "Bulgaria / Burgas Province Official Tourism Portal"
   },
   "footer": {
-    "brandName": "Sunny Beach Amusement Park",
-    "brandSubtitle": "Amusement Park · Sunny Beach, Bulgaria",
-    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official Resources & Information",
-    "officialLinks": {
-      "bgTourism": "Ministry of Tourism of Bulgaria",
-      "bgTourismPortal": "Bulgaria Official Tourism Portal",
-      "bgCulture": "Ministry of Culture of Bulgaria",
-      "bgHeritage": "National Institute of Immovable Cultural Heritage",
-      "bsGovernment": "Burgas Province Government",
-      "bgForeignMinistry": "Ministry of Foreign Affairs Consular Services"
-    },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
-    "editorialNote": "This page is compiled and reviewed by an independent editorial team and is for reference only.",
-    "imageCopyright": "All images displayed on this website are the property and copyright of their respective photographers.",
-    "lastUpdated": "Last updated: August 31, 2026"
+    "rights": "© 2026 Sunny Beach Amusement Park · All rights reserved",
+    "disclaimer": "This website is an independent tourism information project. We are not affiliated with any government agency or official organization."
   },
   "officialManagement": {
     "title": "About Sunny Beach Amusement Park",
@@ -420,15 +413,54 @@
   },
   "sources": {
     "title": "Sources & References",
-    "subtitle": "Official sources used to compile this guide",
+    "subtitle": "Official sources and references used to prepare this guide.",
     "items": [
-      { "name": "Ministry of Tourism of Bulgaria", "url": "https://www.tourism.government.bg/" },
-      { "name": "Bulgaria Travel – Official Tourism Portal", "url": "https://www.bulgariatravel.org/" },
-      { "name": "Burgas Municipality", "url": "https://www.burgas.bg/" },
-      { "name": "Burgas Province Administration", "url": "http://bs.government.bg/" },
-      { "name": "UNESCO – Ancient City of Nessebar", "url": "https://whc.unesco.org/en/list/217/" },
-      { "name": "Google Maps Listing", "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86" }
-    ]
+      {
+        "name": "Ministry of Tourism of Bulgaria",
+        "url": "https://www.tourism.government.bg/"
+      },
+      {
+        "name": "Bulgaria Travel – Official Tourism Portal",
+        "url": "https://www.bulgariatravel.org/"
+      },
+      {
+        "name": "Burgas Municipality",
+        "url": "https://www.burgas.bg/"
+      },
+      {
+        "name": "Burgas Province Administration",
+        "url": "http://bs.government.bg/"
+      },
+      {
+        "name": "UNESCO – Ancient City of Nessebar",
+        "url": "https://whc.unesco.org/en/list/217/"
+      },
+      {
+        "name": "Google Maps Listing",
+        "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
+      },
+      {
+        "name": "Ministry of Culture of Bulgaria",
+        "url": "https://mc.government.bg/"
+      },
+      {
+        "name": "National Institute of Immovable Cultural Heritage",
+        "url": "http://ninkn.bg/"
+      },
+      {
+        "name": "Ministry of Foreign Affairs Consular Services",
+        "url": "https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria"
+      }
+    ],
+    "editorialTitle": "Editorial information",
+    "editorialNote": "This page is compiled and reviewed by an independent editorial team and is for reference only.",
+    "imageTitle": "Image rights",
+    "imageCopyright": "All images displayed on this website are the property and copyright of their respective photographers.",
+    "policiesTitle": "Site policies",
+    "lastUpdated": "Content last updated: November 23, 2026",
+    "privacy-policy": "Privacy Policy",
+    "terms-of-service": "Terms of Service",
+    "cookie-settings": "Cookie Settings"
   },
   "weather": {
     "title": "Current Weather & Forecast",

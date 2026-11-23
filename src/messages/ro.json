@@ -4,6 +4,11 @@
     "description": "Ghidul vizitatorului pentru Sunny Beach Amusement Park (Лунапарк Слънчев бряг / Luna Park) din Sunny Beach, Bulgaria: locație, program de vizitare, bilete și prețuri pentru atracții, transport, vreme în timp real, sfaturi pe anotimpuri și itinerarii de familie."
   },
   "header": {
+    "sources": "Surse",
+    "brand": "Parcul de distracții Sunny Beach",
+    "navigation": "Navigare principală",
+    "language": "Schimbă limba",
+    "theme": "Schimbă tema",
     "home": "Acasă",
     "history": "Istorie",
     "facilities": "Facilități",
@@ -14,10 +19,10 @@
     "backToHome": "Înapoi la pagina principală"
   },
   "hero": {
-    "title": "Sunny Beach Amusement Park (Sunny Beach)",
+    "title": "Parcul de distracții din Sunny Beach",
     "subtitle": "Luna Park · Parc de distracții · Sunny Beach, Bulgaria",
     "rating": "4.4",
-    "reviewCount": "7.345 de recenzii",
+    "reviewCount": "7.362 de recenzii",
     "type": "Parc de distracții",
     "openMaps": "Vezi pe Google Maps",
     "mapsLink": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
@@ -211,6 +216,8 @@
     ]
   },
   "faq": {
+    "questionLabel": "Întrebare",
+    "answerLabel": "Răspuns",
     "title": "Întrebări frecvente",
     "items": [
       {
@@ -270,7 +277,7 @@
     "city": "Oraș",
     "cityValue": "Sunny Beach, Regiunea Burgas",
     "googleRating": "Evaluare Google",
-    "googleRatingValue": "4.4 (7.345)",
+    "googleRatingValue": "4.4 (7.362)",
     "phone": "Telefon",
     "phoneValue": "+359 897 847 003",
     "address": "Adresă",
@@ -318,6 +325,9 @@
     "drivingDesc": "Setați navigația către „Sunny Beach Amusement Park”. Deoarece parcul este într-o zonă pietonală, sugerăm parcarea într-una din parcările cu plată din apropiere (de exemplu lângă Gara Auto Centrală) și parcurgerea ultimelor minute pe jos până la intrare."
   },
   "gallery": {
+    "previous": "Fotografia anterioară",
+    "next": "Fotografia următoare",
+    "close": "Închide galeria",
     "title": "Galerie foto",
     "subtitle": "Moment distractive la Sunny Beach Amusement Park",
     "captions": [
@@ -394,25 +404,8 @@
     "officialPortalLabel": "Portalul oficial de turism Bulgaria / Regiunea Burgas"
   },
   "footer": {
-    "brandName": "Sunny Beach Amusement Park",
-    "brandSubtitle": "Parc de distracții · Sunny Beach, Bulgaria",
-    "rights": "© 2026 Proiect independent de cercetare turistică · Toate drepturile rezervate.",
-    "privacy": "Politica de confidențialitate",
-    "terms": "Termeni de utilizare",
-    "cookies": "Setări cookie",
-    "officialResourcesTitle": "Resurse și informații oficiale",
-    "officialLinks": {
-      "bgTourism": "Ministerul Turismului din Bulgaria",
-      "bgTourismPortal": "Portalul oficial de turism al Bulgariei",
-      "bgCulture": "Ministerul Culturii din Bulgaria",
-      "bgHeritage": "Institutul Național al Patrimoniului Cultural Imobil",
-      "bsGovernment": "Guvernul Regiunii Burgas",
-      "bgForeignMinistry": "Servicii consulare ale Ministerului Afacerilor Externe"
-    },
-    "disclaimer": "Acest site este un proiect independent de informare turistică, terță parte. Nu suntem afiliați cu guvernul local sau cu nicio altă agenție oficială.",
-    "editorialNote": "Această pagină este compilată și revizuită de o echipă editorială independentă și este doar pentru referință.",
-    "imageCopyright": "Toate imaginile afișate pe acest site sunt proprietatea și dreptul de autor al fotografilor respectivi.",
-    "lastUpdated": "Ultima actualizare: 31 august 2026"
+    "rights": "© 2026 Parcul de distracții Sunny Beach · Toate drepturile rezervate",
+    "disclaimer": "Acest site este un proiect independent de informare turistică. Nu suntem afiliați niciunei instituții guvernamentale sau organizații oficiale."
   },
   "officialManagement": {
     "title": "Despre Sunny Beach Amusement Park",
@@ -420,15 +413,54 @@
   },
   "sources": {
     "title": "Surse și referințe",
-    "subtitle": "Surse oficiale folosite pentru a compila acest ghid",
+    "subtitle": "Surse oficiale și referințe folosite la redactarea ghidului.",
     "items": [
-      { "name": "Ministry of Tourism of Bulgaria", "url": "https://www.tourism.government.bg/" },
-      { "name": "Bulgaria Travel – Official Tourism Portal", "url": "https://www.bulgariatravel.org/" },
-      { "name": "Burgas Municipality", "url": "https://www.burgas.bg/" },
-      { "name": "Burgas Province Administration", "url": "http://bs.government.bg/" },
-      { "name": "UNESCO – Ancient City of Nessebar", "url": "https://whc.unesco.org/en/list/217/" },
-      { "name": "Google Maps Listing", "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86" }
-    ]
+      {
+        "name": "Ministerul Turismului din Bulgaria",
+        "url": "https://www.tourism.government.bg/"
+      },
+      {
+        "name": "Portalul oficial de turism al Bulgariei",
+        "url": "https://www.bulgariatravel.org/"
+      },
+      {
+        "name": "Primăria Burgas",
+        "url": "https://www.burgas.bg/"
+      },
+      {
+        "name": "Administrația regională Burgas",
+        "url": "http://bs.government.bg/"
+      },
+      {
+        "name": "UNESCO – Orașul vechi Nessebar",
+        "url": "https://whc.unesco.org/en/list/217/"
+      },
+      {
+        "name": "Locația în Google Maps",
+        "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
+      },
+      {
+        "name": "Ministerul Culturii din Bulgaria",
+        "url": "https://mc.government.bg/"
+      },
+      {
+        "name": "Institutul Național al Patrimoniului Cultural Imobil",
+        "url": "http://ninkn.bg/"
+      },
+      {
+        "name": "Servicii consulare ale Ministerului Afacerilor Externe",
+        "url": "https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria"
+      }
+    ],
+    "editorialTitle": "Informații editoriale",
+    "editorialNote": "Această pagină este compilată și revizuită de o echipă editorială independentă și este doar pentru referință.",
+    "imageTitle": "Drepturile asupra imaginilor",
+    "imageCopyright": "Toate imaginile afișate pe acest site sunt proprietatea și dreptul de autor al fotografilor respectivi.",
+    "policiesTitle": "Politicile site-ului",
+    "lastUpdated": "Ultima actualizare a conținutului: 23 noiembrie 2026",
+    "privacy-policy": "Politica de confidențialitate",
+    "terms-of-service": "Termeni de utilizare",
+    "cookie-settings": "Setări cookie"
   },
   "weather": {
     "title": "Vremea actuală și prognoza",

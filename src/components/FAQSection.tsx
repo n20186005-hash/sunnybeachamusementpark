@@ -27,14 +27,14 @@ export default function FAQSection() {
                 className="font-display text-xl font-semibold mb-3 flex items-start gap-3"
                 style={{ color: 'var(--text-primary)' }}
               >
-                <span className="text-[var(--accent)] font-bold">Q:</span>
+                <span className="text-[var(--accent)] font-bold">{t('questionLabel')}</span>
                 {item.question}
               </h3>
               <div
                 className="text-lg leading-relaxed flex items-start gap-3"
                 style={{ color: 'var(--text-secondary)' }}
               >
-                <span className="text-[var(--accent)] font-bold">A:</span>
+                <span className="text-[var(--accent)] font-bold">{t('answerLabel')}</span>
                 <p>{item.answer}</p>
               </div>
             </div>

@@ -1,7 +1,8 @@
 'use client';
 
-import { useLocale } from 'next-intl';
-import { useRouter, usePathname, routing, type Locale } from '@/i18n/routing';
+import { useParams } from 'next/navigation';
+import { useLocale, useTranslations } from 'next-intl';
+import { Link, usePathname, routing } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
 const labels: Record<string, string> = {
@@ -14,8 +15,9 @@ const labels: Record<string, string> = {
 
 export default function LanguageToggle() {
   const locale = useLocale();
-  const router = useRouter();
+  const t = useTranslations('header');
   const pathname = usePathname();
+  const params = useParams<{ slug?: string }>();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
@@ -29,17 +31,17 @@ export default function LanguageToggle() {
     return () => document.removeEventListener('mousedown', handleClick);
   }, []);
 
-  function switchLocale(next: Locale) {
-    setOpen(false);
-    if (next === locale) return;
-    
-    // 使用 router.push 来切换语言，确保 URL 正确更新
-    // 注意：next-intl v4 的 useRouter 需要这样调用
-    router.push({ pathname }, { locale: next });
-  }
+  const href = pathname === '/nearby/[slug]'
+    ? { pathname, params: { slug: params.slug! } }
+    : { pathname };
 
   return (
-    <div ref={ref} className="relative">
+    <div ref={ref} className="relative" onKeyDown={(event) => {
+      if (open && event.key === 'Escape') {
+        setOpen(false);
+        ref.current?.querySelector('button')?.focus();
+      }
+    }}>
       <button
         onClick={() => setOpen(!open)}
         className="flex items-center gap-1.5 px-3 py-1.5 rounded-md text-sm font-medium transition-colors"
@@ -47,7 +49,8 @@ export default function LanguageToggle() {
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={t('language')}
+        aria-expanded={open}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>
@@ -60,29 +63,32 @@ export default function LanguageToggle() {
         </svg>
       </button>
 
-      {open && (
-        <div
-          className="absolute right-0 mt-2 w-40 rounded-lg shadow-lg overflow-hidden z-50"
-          style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
-        >
-          {routing.locales.map((loc) => (
-            <button
-              key={loc}
-              onClick={() => switchLocale(loc as Locale)}
-              className="w-full text-left px-4 py-2.5 text-sm transition-colors"
-              style={{
-                color: loc === locale ? 'var(--accent)' : 'var(--text-primary)',
-                fontWeight: loc === locale ? 600 : 400,
-                background: 'transparent',
-              }}
-              onMouseEnter={(e) => (e.currentTarget.style.background = 'var(--bg-tertiary)')}
-              onMouseLeave={(e) => (e.currentTarget.style.background = 'transparent')}
-            >
-              {labels[loc]}
-            </button>
-          ))}
-        </div>
-      )}
+      <div
+        hidden={!open}
+        className="absolute end-0 mt-2 w-40 rounded-lg shadow-lg overflow-hidden z-50"
+        style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
+      >
+        {routing.locales.map((loc) => (
+          <Link
+            key={loc}
+            href={href}
+            locale={loc}
+            hrefLang={loc}
+            aria-current={loc === locale ? 'true' : undefined}
+            onClick={() => setOpen(false)}
+            className="block w-full text-start px-4 py-2.5 text-sm transition-colors"
+            style={{
+              color: loc === locale ? 'var(--accent)' : 'var(--text-primary)',
+              fontWeight: loc === locale ? 600 : 400,
+              background: 'transparent',
+            }}
+            onMouseEnter={(e) => (e.currentTarget.style.background = 'var(--bg-tertiary)')}
+            onMouseLeave={(e) => (e.currentTarget.style.background = 'transparent')}
+          >
+            {labels[loc]}
+          </Link>
+        ))}
+      </div>
     </div>
   );
 }

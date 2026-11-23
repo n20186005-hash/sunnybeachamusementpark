@@ -4,6 +4,11 @@
     "description": "阳光海滩游乐园（Sunny Beach Amusement Park / Лунапарк Слънчев бряг / Luna Park）旅游指南：位置、开放时间、门票与设施价格、交通、实时天气、季节建议与家庭路线，位于保加利亚布尔加斯州阳光海滩。"
   },
   "header": {
+    "sources": "资料来源",
+    "brand": "阳光海滩游乐园",
+    "navigation": "主导航",
+    "language": "切换语言",
+    "theme": "切换主题",
     "home": "首页",
     "history": "历史",
     "facilities": "设施",
@@ -17,7 +22,7 @@
     "title": "阳光海滩游乐园（Sunny Beach）",
     "subtitle": "月亮公园 · 游乐园 · 阳光海滩，保加利亚",
     "rating": "4.4",
-    "reviewCount": "7,345 条评价",
+    "reviewCount": "7,362 条评价",
     "type": "游乐园",
     "openMaps": "在Google地图上查看位置",
     "mapsLink": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
@@ -211,6 +216,8 @@
     ]
   },
   "faq": {
+    "questionLabel": "问题",
+    "answerLabel": "回答",
     "title": "常见问题解答",
     "items": [
       {
@@ -270,7 +277,7 @@
     "city": "城市",
     "cityValue": "阳光海滩，布尔加斯州",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.4 (7,345)",
+    "googleRatingValue": "4.4 (7,362)",
     "phone": "电话",
     "phoneValue": "+359 897 847 003",
     "address": "地址",
@@ -318,6 +325,9 @@
     "drivingDesc": "将导航设至“Sunny Beach Amusement Park”。由于游乐园位于步行区内，建议将车停在周边付费停车场（如中央汽车站附近），最后几分钟步行至入口。"
   },
   "gallery": {
+    "previous": "上一张照片",
+    "next": "下一张照片",
+    "close": "关闭图片浏览",
     "title": "照片画廊",
     "subtitle": "阳光海滩游乐园的欢乐时刻",
     "captions": [
@@ -394,25 +404,8 @@
     "officialPortalLabel": "保加利亚 / 布尔加斯州官方旅游门户"
   },
   "footer": {
-    "brandName": "阳光海滩游乐园",
-    "brandSubtitle": "游乐园 · 阳光海滩，保加利亚",
-    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
-    "privacy": "隐私政策",
-    "terms": "服务条款",
-    "cookies": "Cookie 设置",
-    "officialResourcesTitle": "官方资源与资讯",
-    "officialLinks": {
-      "bgTourism": "保加利亚共和国旅游部",
-      "bgTourismPortal": "保加利亚官方旅游门户",
-      "bgCulture": "保加利亚文化部",
-      "bgHeritage": "保加利亚文化遗产研究所",
-      "bsGovernment": "布尔加斯州政府",
-      "bgForeignMinistry": "保加利亚共和国外交部领事服务局"
-    },
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
-    "editorialNote": "本页内容由独立编辑团队整理与审校，仅供参考。",
-    "imageCopyright": "本网站所展示的所有图片产权及版权均归原摄影者所有。",
-    "lastUpdated": "内容最后更新：2026年8月31日"
+    "rights": "© 2026 阳光海滩游乐园 · 版權所有",
+    "disclaimer": "本网站是一个独立的旅游信息项目。我们与任何政府机构或官方组织均无关联"
   },
   "officialManagement": {
     "title": "关于阳光海滩游乐园",
@@ -420,15 +413,54 @@
   },
   "sources": {
     "title": "资料来源与参考",
-    "subtitle": "编制本指南所用的官方来源",
+    "subtitle": "编制本指南所用的官方来源及参考资料",
     "items": [
-      { "name": "保加利亚共和国旅游部", "url": "https://www.tourism.government.bg/" },
-      { "name": "保加利亚官方旅游门户", "url": "https://www.bulgariatravel.org/" },
-      { "name": "布尔加斯市政府", "url": "https://www.burgas.bg/" },
-      { "name": "布尔加斯州政府", "url": "http://bs.government.bg/" },
-      { "name": "联合国教科文组织——内塞伯尔古城", "url": "https://whc.unesco.org/en/list/217/" },
-      { "name": "Google 地图——阳光海滩游乐园", "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86" }
-    ]
+      {
+        "name": "保加利亚共和国旅游部",
+        "url": "https://www.tourism.government.bg/"
+      },
+      {
+        "name": "保加利亚官方旅游门户",
+        "url": "https://www.bulgariatravel.org/"
+      },
+      {
+        "name": "布尔加斯市政府",
+        "url": "https://www.burgas.bg/"
+      },
+      {
+        "name": "布尔加斯州政府",
+        "url": "http://bs.government.bg/"
+      },
+      {
+        "name": "联合国教科文组织——内塞伯尔古城",
+        "url": "https://whc.unesco.org/en/list/217/"
+      },
+      {
+        "name": "Google 地图——阳光海滩游乐园",
+        "url": "https://maps.app.goo.gl/2vQQGdK5Vr23inr86"
+      },
+      {
+        "name": "保加利亚文化部",
+        "url": "https://mc.government.bg/"
+      },
+      {
+        "name": "保加利亚文化遗产研究所",
+        "url": "http://ninkn.bg/"
+      },
+      {
+        "name": "保加利亚共和国外交部领事服务局",
+        "url": "https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria"
+      }
+    ],
+    "editorialTitle": "编辑说明",
+    "editorialNote": "本页内容由独立编辑团队整理与审校，仅供参考。",
+    "imageTitle": "图片版权",
+    "imageCopyright": "本网站所展示的所有图片产权及版权均归原摄影者所有。",
+    "policiesTitle": "网站政策",
+    "lastUpdated": "内容最后更新：2026年11月23日",
+    "privacy-policy": "隐私政策",
+    "terms-of-service": "服务条款",
+    "cookie-settings": "Cookie 设置"
   },
   "weather": {
     "title": "实时天气与预报",
